@@ -1,7 +1,7 @@
 # AFK Tavern Archives
 ### aka drink book source
 
-Welcome to the GitHub repository of the once-beloved AFK Tavern. This archive holds a curated collection of our old drink and food menus in JSON format. The repository serves as a source of truth for the tavern's offerings and is intended for use by fans, friends, and developers interested in historical data or building projects related to the AFK Tavern.
+Welcome to the GitHub repository of the once-beloved AFK Tavern. This archive holds a curated collection of our old drink and food menus in JSON format. The repository serves as a source of truth for the tavern's offerings and is intended for use by fans and friends interested in historical data or building projects related to the AFK Tavern.
 
 ## Usage
 
@@ -25,10 +25,11 @@ To maintain the integrity of the data, we require all submissions to pass our va
 If you have any questions or encounter issues with accessing the repository or running the validation scripts, please open an issue in this GitHub repository.
 
 ## License
+![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
 This project is licensed under the CC BY-NC-SA License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
-Thanks to all the patrons and staff who contributed to the lively history of AFK Tavern. Your stories and contributions continue to inspire and connect us.
+Thanks to all the patreons, patrons, and ex-staff who contributed to the archives of AFK Tavern. Your stories and contributions continue to inspire and connect us.
 
