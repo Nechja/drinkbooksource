@@ -1,4 +1,4 @@
-![Schema Check](https://github.com/Nechja/drinkbooksource/blob/main/.github/workflows/main.yml)/badge.svg)
+![Schema Check](https://github.com/Nechja/drinkbooksource/actions/workflows/main.yml/badge.svg)
 
 # AFK Tavern Archives
 ### aka drink book source
