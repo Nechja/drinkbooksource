@@ -1,4 +1,4 @@
-name: Validate JSON Schema
+name: Validate Drink JSON Schema
 
 on:
   push:
