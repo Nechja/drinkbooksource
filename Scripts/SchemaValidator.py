@@ -1,5 +1,6 @@
 import json
 from jsonschema import validate, ValidationError
+import os
 
 schema = {
     "type": "object",
@@ -71,7 +72,8 @@ schema = {
 
 
 def validate_json(filepath):
-    with open(filepath, 'r', encoding='utf-8') as file:
+    absolute_path = os.path.abspath(filepath)
+    with open(absolute_path, 'r', encoding='utf-8') as file:
         drinks = json.load(file) 
     pass_check = True;
 
@@ -84,4 +86,4 @@ def validate_json(filepath):
     
     print("Validation successful!" if pass_check else "Validation failed!")
 
-validate_json('source.json')
+validate_json(os.path.join('Drinks', 'source.json'))
