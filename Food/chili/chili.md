@@ -51,7 +51,8 @@ BAM! Nailed it, look yes, those are frozen hamburger patties; I said you can jus
 3. **Jalapeños**: If you listen to your heart, the Jalapeños will tell you the spice level you crave. This will add a little bit of heat; you can adjust by taking out the seeds or adding more.
 4. **Spices**: We always prepped these portioned out into a container, then added them and mixed them right before we added in the tomatoes and beans.
 
-- **Cooking**: Add your onions to a pan on medium-high, season with salt and pepper, and sauté until translucent and starting to brown. Add in your peppers and continue to sauté lightly before adding your raw meat.
+### Cooking
+- Add your onions to a pan on medium-high, season with salt and pepper, and sauté until translucent and starting to brown. Add in your peppers and continue to sauté lightly before adding your raw meat.
 - While waiting for the meat to brown, rinse your beans. At the Tavern, we used giant cans and just to make sure they were rinsed right, we would rinse them in equally giant colanders.
 - When your meat is browned, skim ~75% of the liquid, then add in your spices and brown sugar, stir to mix.
 - Add the whole can of tomatoes, stir to combine.
