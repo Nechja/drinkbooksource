@@ -62,6 +62,7 @@ I don't want the thick pan-style Pizza, you guys had a thin crust, and it was wh
 
 ![This is the best pizza in the world, fight me -Kayla](images/thebestkindofpizza.webp "pizza")
 _(Kayla is an actual monster, and made her pizza from these instructions with tangerine slices. Seriously Bartenders are strange people.)_
+
 Is that oven pre-heated? Great, slide er' in there for 10-15 minutes, it will be done when the crust is golden brown, and the cheese is bubbly and starts to pick up some of that golden color.
 
 **bam! pizza**
