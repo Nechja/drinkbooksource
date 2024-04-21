@@ -34,6 +34,45 @@
         ]
     },
     {
+        "Name": "Orc Burger",
+        "Verified": true,
+        "Link": "https://www.patreon.com/posts/every-burger-1-71029116",
+        "Writer": "Kayla",
+        "Catagory": [
+            {
+                "Name": "Burgers",
+                "Primary": true
+            },
+            {
+                "Name": "Entr\u00e9es",
+                "Primary": false
+            }
+        ],
+        "Body": {
+            "Location": "burgers/",
+            "Link": "orc.md",
+            "Body": "",
+            "Markdown": true
+        },
+        "Tags": [
+            {
+                "Value": "Meat",
+                "TagType": "Type",
+                "Color": "Info"
+            },
+            {
+                "Value": "ORC AS FUCK",
+                "TagType": "Type",
+                "Color": "Info"
+            },
+            {
+                "Value": "Classic Menu",
+                "TagType": "Menu",
+                "Color": "Success"
+            }
+        ]
+    },
+    {
         "Name": "Pizza Dough",
         "Verified": true,
         "Link": "https://www.patreon.com/posts/guest-writer-afk-49372355",
