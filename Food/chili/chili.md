@@ -7,7 +7,7 @@ So you prepped too many things and need some way to use it all up?!
 
 Well, say no more, you too can learn the ways of the Tavern.
 
-Say it with me: **C H I L I**. Now hold on, don't be like that. We used quality ingredients! Only the best restaurant quality ground chuck and onions from the most enormous bulk box we could get our hands on! We sourced the finest bulk spices scoured from all over the local restaurant supply vendors.
+Say it with me: _C H I L I_. Now hold on, don't be like that. We used quality ingredients! Only the best restaurant quality ground chuck and onions from the most enormous bulk box we could get our hands on! We sourced the finest bulk spices scoured from all over the local restaurant supply vendors.
 
 Then yes, sometimes it would just acquire extras:
 - Too many peppers were prepped for quesadillas? **Chili**
@@ -18,25 +18,25 @@ It's the perfect receptacle of things you need to get rid of, and this is how **
 
 ## Ingredients
 
-- **2 lbs Beef, Ground**
-- **1 Yellow Onion**
-- **2 Jalapeños, finely diced**
-- **2 cans (15.5 oz each) Kidney Beans**
-- **2 cans (15.5 oz each) Black Beans**
-- **1 can (15.5 oz) Crushed Tomatoes**
-- **Water as needed**
+- 2 lbs Beef, Ground
+- 1 Yellow Onion
+- 2 Jalapeños, finely diced
+- 2 cans (15.5 oz each) Kidney Beans
+- 2 cans (15.5 oz each) Black Beans
+- 1 can (15.5 oz) Crushed Tomatoes
+- Water as needed
 
 ## Seasonings
 
-- **1 tsp Cayenne Pepper**
-- **1 tsp Smoked Paprika**
-- **2 tbsp Cumin**
-- **2 tbsp Ground Chili**
-- **1 tsp (+ a pinch here and there while cooking) Salt and Pepper**
-- **1/8 cup (or to taste) Brown Sugar**
-- **½ tsp Oregano**
-- **½ tsp Garlic Powder**
-- **½ tsp Onion Powder**
+- 1 tsp Cayenne Pepper
+- 1 tsp Smoked Paprika
+- 2 tbsp Cumin
+- 2 tbsp Ground Chili
+- 1 tsp (+ a pinch here and there while cooking) Salt and Pepper
+- 1/8 cup (or to taste) Brown Sugar
+- ½ tsp Oregano
+- ½ tsp Garlic Powder
+- ½ tsp Onion Powder
 
 ## Preparation Steps
 
