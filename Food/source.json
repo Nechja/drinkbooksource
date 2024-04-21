@@ -15,7 +15,8 @@
             }
         ],
         "Body": {
-            "Link": "chili/chili.md",
+            "Location": "chili/",
+            "Link": "chili.md",
             "Body": "",
             "Markdown": true
         },
