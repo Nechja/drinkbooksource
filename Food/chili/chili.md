@@ -48,17 +48,22 @@ Let's get all set up!
 BAM! Nailed it, look yes, those are frozen hamburger patties; I said you can just get rid of stuff with chili, plus we're in my home kitchen; I'm not that fancy.
 
 1. **Prep your onions**: About 1/2" diced is fine; they don't have to be small; just try and get consistent.
-![setup](images/cutting_onions.gif "cutting the onions") 
+![cutting onions](images/cutting_onions.gif "cutting the onions") 
 2. **Peppers**: Same deal; just try and get them consistent.
-3. **Jalapeños**: If you listen to your heart, the Jalapeños will tell you the spice level you crave. This will add a little bit of heat; you can adjust by taking out the seeds or adding more.
-4. **Spices**: We always prepped these portioned out into a container, then added them and mixed them right before we added in the tomatoes and beans.
+3. **Jalapeños**: Jalapenos are up to you! If you listen to your heart yearns, the Jalapenos will tell you the spice level you crave. This will add a little bit of heat; you can adjust by taking out the seeds or adding more.
+![cutting jalapeños](images/cutting_jalapenos.gif "cutting the peppers")
+4. **Spices**: We always prepped these portioned out into a container, then added them and mixed them right before we added in the tomatoes and beans. I prefer to get a couple different kinds; here, I used a mix of the powder from the Winco bulk bin and some New Mexican ground chili from those green topped spice baggies you get from the store… I don't remember the brand. These will be a bulk of your flavors, you could even make your own, but that is outside of the scope here.
+
 
 ### Cooking
 - Add your onions to a pan on medium-high, season with salt and pepper, and sauté until translucent and starting to brown. Add in your peppers and continue to sauté lightly before adding your raw meat.
+![starting chili](images/cooking_start.gif "weeeeeeee")
 - While waiting for the meat to brown, rinse your beans. At the Tavern, we used giant cans and just to make sure they were rinsed right, we would rinse them in equally giant colanders.
 - When your meat is browned, skim ~75% of the liquid, then add in your spices and brown sugar, stir to mix.
 - Add the whole can of tomatoes, stir to combine.
+![toms times](images/nowcooking.jpg "adding things")
 - Then pour the beans into the pot, gently stir so you don't break them too much until they are well mixed. Fill water to just under the top (you could use some of that liquid you skimmed if you want).
+![beany soup](images/beans.jpg "beans!")
 
 ## Cooking Time
 
@@ -66,7 +71,7 @@ Now it is time to bring it to a simmer and leave it uncovered, then wait… and 
 
 ## Finishing Touches
 
-Is your chili done? Your spoon stays standing up in the center of it? Now what? Well, you should probably taste it, see if it might need something… it needs something? If you don't know what it is that it still needs, in my experience, it is salt.
+Is your chili done? Your spoon stays standing up in the center of it? Now what? Well, you should probably taste it, see if it might need something… it needs something? If you don't know what it is that it still needs, in my experience, it is salt. I will deeply miss having someone ask you to taste something because it is missing something, then seeing the look on their face when you ask if they added salt. Because you know they forgot.
 
 ## Serving Suggestions
 
