@@ -49,6 +49,23 @@ We stopped using this due to some equipment malfunctions that we never replaced.
 5. Place the dough back in the bowl, let it rise covered on the counter until doubled in size, about an hour.
 6. Divide into ~9oz balls, tucking the edges under to create a smooth surface.
 
+Alright, well, we have our dough, now what? THAT'S IT. YOU HAVE PIZZA; IT'S MAGIC!
+
+Oh, maybe we should put toppings on it…FINE, be that way. Using only your finest mass-produced restaurant-quality ingredients, we will find a way to do this.
+
+#### Okay I guess we can make a pizza
+Let's start by flipping that oven to 425° F and letting it pre-heat then; we will move onto forming out our dough. To do that, we will be throwing it up into the air with a twist of the wrist, and I know you wanted to do that…It's stuck on the ceiling? Don't worry; it happens to the best of us, okay we will do it the boring way.
+
+Lightly oil (We used olive oil) your pie pan and set your dough into the center. Using your palm, press the dough down and towards the edge of the pan. Then rotate your dish and repeat until you have the pan mostly covered. Using your fingertips, work it from the inside out until it reaches the edge of the pan. Cover with a light layer of your pizza sauce of choice, a nice layer of shredded low moisture mozzarella cheese, any toppings you want on your Pizza, another sprinkle of mozzarella, and a sprinkle of shredded parm to finish off the top. We will go over our toppings in another article. 
+
+I don't want the thick pan-style Pizza, you guys had a thin crust, and it was what I always ordered! I hear you; you'll need a pizza pan or a cookie sheet for this style. Lightly oil it, and we use the same method of pushing towards the edge as we did in the thick version…only we have to go so much further, stretch it out MORE, get it out to about 12 inches. The same amount of dough, but you get way more coverage. For some reason, though this one always took longer to cook, this makes little sense, we never figured out why the kitchen violated the laws of physics.
+
+![This is the best pizza in the world, fight me -Kayla](images/thebestkindofpizza.webp "pizza")
+_(Kayla is an actual monster, and made her pizza from these instructions with tangerine slices. Seriously Bartenders are strange people.)_
+Is that oven pre-heated? Great, slide er' in there for 10-15 minutes, it will be done when the crust is golden brown, and the cheese is bubbly and starts to pick up some of that golden color.
+
+**bam! pizza**
+
 #### Bonus Content
 
 Kayla discovered a video while digging through archives for pizza-related content. It features Manager TJ teaching cooks how to make the pizza in the old days.
@@ -66,6 +83,3 @@ Kayla discovered a video while digging through archives for pizza-related conten
 - **Parm:** 1 cup
 - **Water (105°F):** 46oz by weight
 
----
-
-*Guest Writer*
