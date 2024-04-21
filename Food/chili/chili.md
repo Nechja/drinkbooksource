@@ -48,7 +48,7 @@ Let's get all set up!
 BAM! Nailed it, look yes, those are frozen hamburger patties; I said you can just get rid of stuff with chili, plus we're in my home kitchen; I'm not that fancy.
 
 1. **Prep your onions**: About 1/2" diced is fine; they don't have to be small; just try and get consistent.
-![setup](images/Chili_cutting_onions.gif "cutting the onions") 
+![setup](images/cutting_onions.gif "cutting the onions") 
 2. **Peppers**: Same deal; just try and get them consistent.
 3. **Jalapeños**: If you listen to your heart, the Jalapeños will tell you the spice level you crave. This will add a little bit of heat; you can adjust by taking out the seeds or adding more.
 4. **Spices**: We always prepped these portioned out into a container, then added them and mixed them right before we added in the tomatoes and beans.
