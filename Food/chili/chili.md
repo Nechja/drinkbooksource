@@ -1,4 +1,4 @@
-![chili](chilli.webp "It's chili time!")
+![chili](chili.webp "It's chili time!")
 
 # Tavern Chili
 
