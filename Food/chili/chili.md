@@ -1,4 +1,4 @@
-![chili](chili.webp "It's chili time!")
+![chili](image/chili.webp "It's chili time!")
 
 # Tavern Chili
 
