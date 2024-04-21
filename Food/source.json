@@ -49,7 +49,7 @@
             }
         ],
         "Body": {
-            "Location": "burgers/",
+            "Location": "Burgers/",
             "Link": "orc.md",
             "Body": "",
             "Markdown": true
