@@ -1,7 +1,7 @@
 ![chili](images/chili.webp "It's chili time!")
 
 # Tavern Chili
-By: Donald (ex-tavern cook)
+> By: Donald (ex-tavern cook)
 
 So you prepped too many things and need some way to use it all up?!
 
