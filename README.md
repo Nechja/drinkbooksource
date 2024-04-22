@@ -1,4 +1,5 @@
 ![Schema Check](https://github.com/Nechja/drinkbooksource/actions/workflows/drinks.yml/badge.svg)
+![Schema Check](https://github.com/Nechja/drinkbooksource/actions/workflows/food.yml/badge.svg)
 
 # AFK Tavern Archives
 ### aka drink book source
@@ -19,12 +20,12 @@ We welcome contributions from our community. If you spot any errors, typos, or h
 
 1. Clone the repository.
 2. Install dependencies (if any).
-3. Run the `SchemaValidator` script to check for data consistency.
+3. Run the `DrinkSchemaValidator` and `FoodSchemaValidator` script to check for data consistency.
 4. If all tests pass, submit a merge request with your proposed changes.
 
 ## Validation
 
-To maintain the integrity of the data, we require all submissions to pass our validation checks the `SchemaValidator` script included in the repository.
+To maintain the integrity of the data, we require all submissions to pass our validation checks one of the `SchemaValidator` script included in the repository.
 
 ## Questions or Issues
 
