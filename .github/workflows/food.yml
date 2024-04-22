@@ -1,0 +1,48 @@
+name: Validate Food JSON Schema
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11' 
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Schema Validator and Check Output
+      id: validate
+      run: |
+        output=$(python Scripts/FoodSchemaValidator.py)
+        echo "::set-output name=result::$output"
+        if [[ "$output" == *"Validation successful!"* ]]; then
+          echo "Validation Passed"
+        else
+          echo "Validation Failed"
+          echo "$output"
+          exit 1
+        fi
+
+    - name: Post-validation Success Message
+      if: success()
+      run: echo "Validation successful! Continuing with the workflow."
+
+    - name: Post-validation Failure Message
+      if: failure()
+      run: echo "Validation failed! Check the details above for errors."
