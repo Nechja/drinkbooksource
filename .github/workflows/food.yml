@@ -1,4 +1,4 @@
-name: Validate Food JSON Schema
+name: Food JSON Schema
 
 on:
   push:
