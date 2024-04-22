@@ -1,4 +1,4 @@
-### I got nothing rught now
+### I got nothing right now
 
 **But** I need to put something up for now.
 
