@@ -29,7 +29,7 @@ jobs:
     - name: Run Markdown Check and Check Output
       id: validate
       run: |
-        output=$(python MdCheck.py)
+        output=$(python Scripts/MdCheck.py)
         echo "::set-output name=result::$output"
         if [[ "$output" == *"MD files checked successfully."* ]]; then
           echo "Markdown Check Passed"
