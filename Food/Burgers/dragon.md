@@ -1,6 +1,7 @@
 
 ![The Dragon Burger](images/durgonborger.bmp "DURGON BLORUGER")
 ## The Dragon Burger
+> By: Kayla
 
 The second burger on the menu—the Dragon Burger, aka the Red Dragon Burger. A reference to the Red Dragon Inn, we dropped the "Red" from the name as people were perplexed about it in the first test runs of the menu.
 
