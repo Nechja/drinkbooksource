@@ -112,6 +112,45 @@
         ]
     },
     {
+        "Name": "Witch King Burger/1Up Burger",
+        "Verified": true,
+        "Link": "https://www.patreon.com/posts/every-burger-77693268",
+        "Writer": "Kayla",
+        "Catagory": [
+            {
+                "Name": "Burgers",
+                "Primary": true
+            },
+            {
+                "Name": "Entr\u00e9es",
+                "Primary": false
+            }
+        ],
+        "Body": {
+            "Location": "Burgers/",
+            "Link": "dragon.md",
+            "Body": "",
+            "Markdown": true
+        },
+        "Tags": [
+            {
+                "Value": "Meat",
+                "TagType": "Type",
+                "Color": "Info"
+            },
+            {
+                "Value": "TL;DR: It has fucking meat on it!",
+                "TagType": "Type",
+                "Color": "Info"
+            },
+            {
+                "Value": "Classic Menu",
+                "TagType": "Menu",
+                "Color": "Success"
+            }
+        ]
+    },
+    {
         "Name": "Witch King Burger",
         "Verified": true,
         "Link": "https://www.patreon.com/posts/every-burger-77646794",
@@ -139,7 +178,7 @@
                 "Color": "Info"
             },
             {
-                "Value": "Durgon Borger",
+                "Value": "This thing is Witchin'",
                 "TagType": "Type",
                 "Color": "Info"
             },
