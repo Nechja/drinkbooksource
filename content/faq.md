@@ -1,6 +1,6 @@
-# Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-## General questions
+### General questions
 
 **Question:** Why did AFK close? I thought you were doing so well!
 > The short answer, and only one I can give you, is COVID hit us hard, and our lease was coming up. We decided to play dice with our fate, COVID hit me (Kayla) personally pretty hard, and I stand by it as the best call for my health and the health of many others. 
@@ -17,7 +17,7 @@
 **Question:** I went there all the time! Can you put me in contact with **—name here—** a staff person?
 > No, sorry. I value people's right to privacy.
 
-## Item questions
+### Item questions
 
 **Question:** What is a verified item? Why isn't everything verified?
 > Verification requires that it come directly from a source document, bar drink book copy, or have three other sources. Some failed this test so they could get updated or changed later.
@@ -31,7 +31,7 @@
 **Question:** Some of the item names changed or became generic! Why?
 > C&Ds are a bitch, time changes all our views, or I'm just not temping fate; take your pick :)
 
-## Site Questions
+### Site Questions
 
 **Question:** I found a bug, glitch, or issue!
 > Please open up an issue on the [repo for the Web Site]() Remember to let me know what browser and place you found it. If you are the kind of person who also likes to fix things, you can submit a PR with a bug fix. 
