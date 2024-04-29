@@ -34,10 +34,10 @@
 ## Site Questions
 
 **Question:** I found a bug, glitch, or issue!
-> Please open up an issue on the [repo for the Web Site]. Remember to let me know what browser and place you found it. If you are the kind of person who also likes to fix things, you can submit a PR with a bug fix. 
+> Please open up an issue on the [repo for the Web Site]() Remember to let me know what browser and place you found it. If you are the kind of person who also likes to fix things, you can submit a PR with a bug fix. 
 
-**Question:** Blazor?! Are you okay? Do you need help?
-> Probably. It if was JS I might have walked into the ocean and never come back.
+**Question:** Blazor?! Are you okay? Do you need mental help?
+> Probably.
 
 **Question:** What's with this theme?
-> Guessing you're not into console. Sorry, I was in an odd mood when I made this.
+> Even though I'm a pc kinda gal, I'm really into console. 
