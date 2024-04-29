@@ -112,7 +112,7 @@
         ]
     },
     {
-        "Name": "Witch King Burger/1Up Burger",
+        "Name": "1Up/Toadstools Revenge Burger",
         "Verified": true,
         "Link": "https://www.patreon.com/posts/every-burger-77693268",
         "Writer": "Kayla",
@@ -128,7 +128,7 @@
         ],
         "Body": {
             "Location": "Burgers/",
-            "Link": "dragon.md",
+            "Link": "toldstoolsrevenge.md",
             "Body": "",
             "Markdown": true
         },
