@@ -112,6 +112,94 @@
         ]
     },
     {
+        "Name": "Normal Burger",
+        "Verified": true,
+        "Link": "https://www.patreon.com/posts/burgers-classic-77835472",
+        "Writer": "Kayla",
+        "Catagory": [
+            {
+                "Name": "Burgers",
+                "Primary": true
+            },
+            {
+                "Name": "Entr\u00e9es",
+                "Primary": false
+            }
+        ],
+        "Body": {
+            "Location": "Burgers/",
+            "Link": "normal.md",
+            "Body": "",
+            "Markdown": true
+        },
+        "Tags": [
+            {
+                "Value": "Meat",
+                "TagType": "Type",
+                "Color": "Info"
+            },
+            {
+                "Value": "So Normal",
+                "TagType": "Type",
+                "Color": "Info"
+            },
+            {
+                "Value": "Don't @ Me",
+                "TagType": "Memes",
+                "Color": "Warning"
+            },
+            {
+                "Value": "Classic Menu",
+                "TagType": "Menu",
+                "Color": "Success"
+            }
+        ]
+    },
+    {
+        "Name": "The Baconarok",
+        "Verified": true,
+        "Link": "https://www.patreon.com/posts/burgers-classic-77835472",
+        "Writer": "Kayla",
+        "Catagory": [
+            {
+                "Name": "Burgers",
+                "Primary": true
+            },
+            {
+                "Name": "Entr\u00e9es",
+                "Primary": false
+            }
+        ],
+        "Body": {
+            "Location": "Burgers/",
+            "Link": "normal.md",
+            "Body": "",
+            "Markdown": true
+        },
+        "Tags": [
+            {
+                "Value": "Meat",
+                "TagType": "Type",
+                "Color": "Info"
+            },
+            {
+                "Value": "BACON",
+                "TagType": "Type",
+                "Color": "Info"
+            },
+            {
+                "Value": "Baconarokin' Good",
+                "TagType": "Memes",
+                "Color": "Warning"
+            },
+            {
+                "Value": "Classic Menu",
+                "TagType": "Menu",
+                "Color": "Success"
+            }
+        ]
+    },
+    {
         "Name": "1Up Burger",
         "Verified": true,
         "Link": "https://www.patreon.com/posts/every-burger-77693268",
