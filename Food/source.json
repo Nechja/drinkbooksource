@@ -293,7 +293,7 @@
             }
         ],
         "Body": {
-            "Location": "pizza/",
+            "Location": "pasta/",
             "Link": "dough.md",
             "Body": "",
             "Markdown": true
