@@ -284,7 +284,7 @@
         "Writer": "Donald",
         "Catagory": [
             {
-                "Name": "Prep Items",
+                "Name": "Pizza",
                 "Primary": true
             },
             {
@@ -293,7 +293,7 @@
             }
         ],
         "Body": {
-            "Location": "pasta/",
+            "Location": "pizza/",
             "Link": "dough.md",
             "Body": "",
             "Markdown": true
