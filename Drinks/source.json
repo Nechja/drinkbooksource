@@ -1891,6 +1891,11 @@
                 "Value": "Serenity",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "Non-Alcoholic",
+                "Type": "Serving Info",
+                "Color": "Success"
             }
         ],
         "Instructions": {
@@ -28845,6 +28850,10 @@
         "Id": 476,
         "Verification": false,
         "Garnish": [],
+        "Mod": {
+            "Name": "Mana Potion Alpha",
+            "Id": 186
+        },
         "Glass": "Potion",
         "LinkUrl": "https://www.patreon.com/posts/brief-de-of-some-63052133",
         "Tags": [
