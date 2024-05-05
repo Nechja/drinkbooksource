@@ -5,8 +5,13 @@
         "Link": "alpha-mana-potion.md"
     },
     {
-        "Name": "Mana Potion 2014",
+        "Name": "Mana Potion pre 2014",
         "Locations": "DrinkStories",
         "Link": "pre-2014-mana-potions.md"
+    },
+    {
+        "Name": "Mana Potion 2015-2020",
+        "Locations": "DrinkStories",
+        "Link": "2015-2020-mana-potion.md"
     }
 ]
