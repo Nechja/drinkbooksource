@@ -225,6 +225,11 @@
                 "Value": "World Of Warcraft",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "Wow",
+                "Color": "Tertiary",
+                "Type": "Info"
             }
         ],
         "Instructions": {
@@ -4213,6 +4218,11 @@
                 "Value": "WoW",
                 "Type": "General",
                 "Color": "Normal"
+            },
+            {
+                "Value": "world of warcraft",
+                "Color": "Tertiary",
+                "Type": "Info"
             }
         ],
         "Instructions": {
@@ -4269,6 +4279,11 @@
                 "Value": "WoW",
                 "Type": "General",
                 "Color": "Normal"
+            },
+            {
+                "Value": "world of warcraft",
+                "Color": "Tertiary",
+                "Type": "Info"
             }
         ],
         "Instructions": {
@@ -10857,11 +10872,6 @@
             },
             {
                 "Value": "Living Room Drinking",
-                "Type": "General",
-                "Color": "Normal"
-            },
-            {
-                "Value": "No Really 'Mana Potion' Is In Nearly Ever Fantasy Genre",
                 "Type": "General",
                 "Color": "Normal"
             },
@@ -23439,6 +23449,11 @@
                 "Value": "World Of Warcraft",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "Wow",
+                "Color": "Tertiary",
+                "Type": "Info"
             }
         ],
         "Instructions": {
@@ -23510,6 +23525,11 @@
                 "Value": "World Of Warcraft",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "Wow",
+                "Color": "Tertiary",
+                "Type": "Info"
             }
         ],
         "Instructions": {
@@ -24300,7 +24320,7 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "Fill equal parts; IE:Smurf's blood",
+                    "Special": "Fill",
                     "Name": "Powerade & Sprite",
                     "Type": "Mixer"
                 }
@@ -27328,7 +27348,7 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "fill equal parts",
+                    "Special": "fill",
                     "Name": "Cranberry Juice And Sprite",
                     "Type": "Mixer"
                 }
@@ -28932,7 +28952,7 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "Fill equal parts; IE:Smurf's blood",
+                    "Special": "Fill",
                     "Name": "Powerade & Sprite",
                     "Type": "Mixer"
                 }
@@ -29005,7 +29025,7 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "Fill equal parts; IE:Smurf's blood",
+                    "Special": "Fill",
                     "Name": "Powerade & Sprite",
                     "Type": "Mixer"
                 }
@@ -29071,7 +29091,7 @@
             "noflag": [
                 {
                     "Oz": null,
-                    "Special": "Fill (Smurf's Blood)",
+                    "Special": "Fill",
                     "Name": "Powerade & Sprite",
                     "Type": "Mixer"
                 }
@@ -29142,7 +29162,7 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "Fill (Smurf's Blood)",
+                    "Special": "Fill",
                     "Name": "Powerade & Sprite",
                     "Type": "Mixer"
                 }
@@ -29251,7 +29271,7 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "Fill equal parts; IE:Smurf's blood",
+                    "Special": "Fill",
                     "Name": "Powerade & Sprite",
                     "Type": "Mixer"
                 }
@@ -30852,6 +30872,11 @@
                 "Value": "WoW",
                 "Type": "General",
                 "Color": "Normal"
+            },
+            {
+                "Value": "world of warcraft",
+                "Color": "Tertiary",
+                "Type": "Info"
             }
         ],
         "Instructions": {
@@ -31215,7 +31240,7 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "Fill equal parts; IE:Smurf's blood",
+                    "Special": "Fill",
                     "Name": "Powerade & Sprite",
                     "Type": "Mixer"
                 }
@@ -31309,7 +31334,7 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "Fill equal parts; IE:Smurf's blood",
+                    "Special": "Fill",
                     "Name": "Powerade & Sprite",
                     "Type": "Mixer"
                 }
@@ -34756,7 +34781,7 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "Fill equal parts; IE:Smurf's blood",
+                    "Special": "Fill",
                     "Name": "Powerade & Sprite",
                     "Type": "Mixer"
                 }
@@ -35442,11 +35467,6 @@
                 "Value": "Heroes Of The Storm",
                 "Type": " IP",
                 "Color": "Info"
-            },
-            {
-                "Value": "WoW",
-                "Type": "General",
-                "Color": "Normal"
             }
         ],
         "Instructions": {
@@ -40386,6 +40406,11 @@
                 "Value": "World Of Warcraft",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "Wow",
+                "Color": "Tertiary",
+                "Type": "Info"
             }
         ],
         "Instructions": {
