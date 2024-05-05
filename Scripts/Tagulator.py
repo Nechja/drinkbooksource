@@ -11,8 +11,8 @@ def normalize_tag(tag):
     return tag.lower().replace(" ", "") 
 
 def ensure_tags(data, required_tag, additional_tag):
-    required_tag_normalized = normalize_tag(required_tag)  # Normalize required tag
-    additional_tag_normalized = normalize_tag(additional_tag)  # Normalize additional tag
+    required_tag_normalized = normalize_tag(required_tag) 
+    additional_tag_normalized = normalize_tag(additional_tag)  
     for entry in data:
         has_required_tag = any(normalize_tag(tag['Value']) == required_tag_normalized for tag in entry.get('Tags', []))
         has_additional_tag = any(normalize_tag(tag['Value']) == additional_tag_normalized for tag in entry.get('Tags', []))

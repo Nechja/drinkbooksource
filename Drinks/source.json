@@ -24302,7 +24302,7 @@
     {
         "Name": "Ashen Flask",
         "Id": 408,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Glass": "Potion",
         "LinkUrl": "https://www.patreon.com/posts/mana-potions-44359855",
@@ -25034,7 +25034,7 @@
     {
         "Name": "Blue potion",
         "Id": 419,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Glass": "Potion",
         "LinkUrl": "https://www.patreon.com/posts/mana-potions-44359855",
@@ -27325,7 +27325,7 @@
     {
         "Name": "HP Potion #1",
         "Id": 452,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Glass": "Potion",
         "LinkUrl": "https://www.patreon.com/posts/mana-potions-44359855",
@@ -28577,7 +28577,7 @@
     {
         "Name": "MP Potion",
         "Id": 472,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Glass": "Potion",
         "LinkUrl": "https://www.patreon.com/posts/mana-potions-44359855",
@@ -31059,7 +31059,7 @@
     {
         "Name": "Red Potion",
         "Id": 508,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Glass": "Potion",
         "LinkUrl": "https://www.patreon.com/posts/mana-potions-44359855",
@@ -34771,7 +34771,7 @@
     {
         "Name": "The Potion of Prolonged Power",
         "Id": 556,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Glass": "Potion",
         "LinkUrl": "https://www.patreon.com/posts/mana-potions-44359855",
