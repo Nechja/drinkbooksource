@@ -1,4 +1,6 @@
 # Pre 2014 Mana Potions
+![Mana Potions](images/mana.bmp "mana")
+> By Kayla
 
 The Mana Potion. Such a magical drink. As I talked about in the previous post, this is the original AFK drink. That doesn't mean it's always been the same, however. Many versions, updates, and retools have seen their day in the sun.
 
