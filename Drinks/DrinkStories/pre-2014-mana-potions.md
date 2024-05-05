@@ -3,11 +3,10 @@
 The Mana Potion. Such a magical drink. As I talked about in the previous post, this is the original AFK drink. That doesn't mean it's always been the same, however. Many versions, updates, and retools have seen their day in the sun.
 
 Today we're going dive into the Pre 2014 Mana Potion backstories and some of the reasons behind the changes!
-Launch, Failure, and Irish Coffee
+### Launch, Failure, and Irish Coffee
 
 The Launch mana potion was problematic. Like the Alpha mana potion, it wasn't as much about the production speed and ended up getting scrapped fast. This version was from Nov 4, 2010, printing of the menu. I love archives because I barely remember this version. I've included the original description because it's cute.
-
-    Mana Potion: Feeling low on mana? Can you not even see your blue bar anymore? Well, this little concoction could help—a mix of berry-flavored liqueurs with mystical Absolut Berri AÇAÍ. Don't be oom!
+> Mana Potion: Feeling low on mana? Can you not even see your blue bar anymore? Well, this little concoction could help—a mix of berry-flavored liqueurs with mystical Absolut Berri AÇAÍ. Don't be oom!
 
 [First Launch Mana Potion](https://agreeable-mud-04cfbdd10.5.azurestaticapps.net/drink/475/ManaPotion)
 
@@ -26,7 +25,7 @@ Due to the glass's volume change, we ditched the light ice, upped the Hpnotiq, a
 
 And with that, a legend was born. Photos of the mana potion ran wild on the internet. People called asking us wtf smurf blood was daily. I received emails asking about how we "made" the bottles. And a fair bit of hate mail for the color of the drink. It was fantastic; we knew we had a hit.
 
-On cost reduction, a generic substitution, and soda guns.
+### On cost reduction, a generic substitution, and soda guns.
 
 The first document I can find relating to the next version is in late 2011. At this point, we were shooting for price reduction but profit increase on the entire menu. One of our astute employees pointed out we could save some money swapping to generics in a few drinks. I recall writing it with Kara late after close one night. This 2011 version wasn't much different, but they helped shape the future of the drink.
 
