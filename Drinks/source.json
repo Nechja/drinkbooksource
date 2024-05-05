@@ -28918,7 +28918,7 @@
     {
         "Name": "Mana Potion Apocalypse",
         "Id": 477,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Mod": {
             "Name": "Mana Potion Alpha",
@@ -28991,7 +28991,7 @@
     {
         "Name": "Mana Potion UV edition",
         "Id": 478,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Mod": {
             "Name": "Mana Potion Alpha",
@@ -29206,7 +29206,7 @@
     {
         "Name": "Mana Potion v4",
         "Id": 481,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Mod": {
             "Name": "Mana Potion Alpha",
