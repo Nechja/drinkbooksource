@@ -49,4 +49,4 @@ In the first part of the shutdown, before they gave us the green light for mixed
 
 And while technically, this doesn't have a lot of relation to the Mana Potion, it was sold as a mana potion mod on the website to drive sales to the Kinky Green and Mt. Dew we had in stock. I'd say this drink was closer to our cocktail called an Illidan more than anything else. But I have filed it under Mana Potion due to its association online.
 
-And thus ends our wild ride into the weird history of the Mana Potion! That is till I jump into the "lost history of the Mana Potion" Sometime next year...  Next Month we're Diving into the Power Suit and the #V (thanks for the votes on these two. #V is going to be a wild ride)
+And thus ends our wild ride into the weird history of the Mana Potion!
