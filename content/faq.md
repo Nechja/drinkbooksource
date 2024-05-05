@@ -25,19 +25,25 @@
 **Question:** I have some source material that I would add to this! How can I get it to you?
 > You can open a PR on [the repo that serves as the source of truth for this site](https://github.com/Nechja/drinkbooksource/). If you don't know how to do that, email me at kayla@afktavern.com
 
+**Question:** I found typo or missing tag how can I make you fix it?
+> Meme: The thing is you don't - But if you'd like to help fix it or report it try out the [github repo](https://github.com/Nechja/drinkbooksource/) or pm me on Discord/Patreon
+
 **Question:** I was shocked to find **-item name-** wasn't here on the website!? Why isn't it here?!
-> Not everything made it out, and some of the archives are incomplete. We have a [github repo that serves as the source of truth](https://github.com/Nechja/drinkbooksource/) for this site. We still find things, or ex-staff reconect and recall how to make something. Check back, perhaps one day it will be here. 
+> Not everything made it out, and some of the archives are incomplete. We have a [github repo that serves as the source of truth](https://github.com/Nechja/drinkbooksource/) for this site. We still find things, or ex-staff reconect and recall how to make something. Check back, perhaps one day it will be here. As of writing this FAQ I'm done with most the major menus, and still try to _once a month_ put in some theme menus.
 
 **Question:** Some of the item names changed or became generic! Why?
 > C&Ds are a bitch, time changes all our views, or I'm just not temping fate; take your pick :)
 
 ### Site Questions
 
-**Question:** I found a bug, glitch, or issue!
-> Please open up an issue on the [repo for the Web Site]() Remember to let me know what browser and place you found it. If you are the kind of person who also likes to fix things, you can submit a PR with a bug fix. 
+**Question:** All the ASCII art is glitched?!
+> If you're a wonderful, unique, and knowledgeable person who uses Firefox mobile like me, it's a known issue with the framework I used :( I found out about after I was 2 Sunday nights in coding it. I'll get a fix at some point and remove this question. If you're not a Firefox mobile or some fork of that, try allowing scripts. If not, hit me on the GH with the browser and a screenshot.
 
-**Question:** Blazor?! Are you okay? Do you need mental help?
-> Probably.
+**Question:** I found a bug, glitch, or issue!
+> Please open up an issue on the [repo for the Web Site](https://github.com/Nechja/drinkbooksource/) Remember to let me know what browser and place you found it. If you are the kind of person who also likes to fix things, you can submit a PR with a bug fix. 
+
+**Question:** This is in Blazor?! Are you okay? Do you need mental help?
+> Probably lots more therapy. It could have been some Node thing... yes! But I wouldn't say I like to code work code with 'fun' code, if you understand you understand.
 
 **Question:** What's with this theme?
-> Even though I'm a pc kinda gal, I'm really into console. 
+> Even though I'm a pc kinda gal, I'm really into console.
