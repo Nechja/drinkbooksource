@@ -85,6 +85,11 @@
                 "Value": "RPG",
                 "Type": "Genre",
                 "Color": "Success"
+            },
+            {
+                "Value": "#V I O L E N C E",
+                "Type": "Joke",
+                "Color": "Warning"
             }
         ],
         "Instructions": {
@@ -23568,6 +23573,10 @@
         "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
+        "Mod": {
+            "Name": "1000 Needles (2012 version)",
+            "Id": 5
+        },
         "Glass": "Pounder",
         "LinkUrl": "https://www.patreon.com/posts/brief-de-of-some-63052133",
         "Tags": [
@@ -27367,6 +27376,10 @@
         "Id": 453,
         "Verification": false,
         "Garnish": [],
+        "Mod": {
+            "Name": "HP Potion #1",
+            "Id": 452
+        },
         "Glass": "Potion",
         "LinkUrl": "https://www.patreon.com/posts/mana-potions-44359855",
         "Tags": [
