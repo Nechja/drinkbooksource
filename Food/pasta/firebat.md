@@ -45,4 +45,4 @@ For a short time, we used sweet onions and not just regular yellows. During this
 Whiskey bat only happened once; if you've wanted to mess around with some of the flavors, try swapping out the alcohol! We did play around with adding wines and various other things. None of it stuck around.
 
 _Bonus the full batch version:_
-[fullbat](images/fullbatchbat.bmp "Batchy")
+![fullbat](images/fullbatchbat.bmp "Batchy")
