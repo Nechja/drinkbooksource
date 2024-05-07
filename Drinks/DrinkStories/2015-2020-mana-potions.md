@@ -7,7 +7,7 @@ Mana Potions got Kinky?
 
 So what of the variations after 2014, you might ask. Well, between 2014 and 2016, it gets tricky. Two significant variations appeared in this time frame. The first change to the recipe involves dropping Hpnotiq for Kinky Blue. It is as follows:
 
-[Mana Potion 2014](https://agreeable-mud-04cfbdd10.5.azurestaticapps.net/drink/481/ManaPotionv4)
+[Mana Potion 2014](https://afktavern.com/drink/481/ManaPotionv4)
 
 This version shows up in an early 2015 drink guide and the official re-codification of drinks in 2015 and 2016. I think we may have swapped to it sooner, but I have some incomplete records in that time frame. Kinky was swapped in to keep a price bump from happening to the drink. It's a cheaper alternative to Hpnotiq without changing the taste and color much.
 
@@ -36,13 +36,13 @@ After 2016 however, the Mana Potion would stay unchanged for a while. Ionic in D
 
 Change had come again to the Mana Potion. The 2018 variation was spelled out in a quick addendum to the drink menu.
 
-[Mana Potion UV Version](https://agreeable-mud-04cfbdd10.5.azurestaticapps.net/drink/478/ManaPotionUVedition)
+[Mana Potion UV Version](https://afktavern.com/drink/478/ManaPotionUVedition)
 
 The True Blue color of the Mana Potion prophecized by the Rouge variations had come. We wanted something that looked cool and really could replace the mystical-ness of the Acai. UV Blue was something we already had on our shelves for a few other drinks. It met the requirement of "being cool," and it was well-loved by many regulars for shots. And so the 2018 variation was born.
 The end comes
 
 This is where we would have left the main story of the Mana Potion. Comfortable in its bright blue coloration, this is where I'd assume we would have left it. But 2020 came and changed that one last time. A poorly timed backorder of UV blue left is to 86 the Mana Potion. It was a popular shooter with a few of our regulars, and even at a high par, it was no match for power-pandemic-drinking. We needed to keep the mana potion on the menu for people to enjoy. So here is the final Mana Potion Variation.
 
-[Mana Potion Apocalypse](https://agreeable-mud-04cfbdd10.5.azurestaticapps.net/drink/477/ManaPotionApocalypse)
+[Mana Potion Apocalypse](https://afktavern.com/drink/477/ManaPotionApocalypse)
 
 So we end the proud story of the Mana Potion. I hope you've enjoyed it. I know I have. For the end of the month, we'll be diving into the Mana Potion Modification drinks such as the Health, MP, and HP potions!

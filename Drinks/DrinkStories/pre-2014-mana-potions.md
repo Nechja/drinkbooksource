@@ -23,7 +23,7 @@ I was out looking for better plates in the scratch and dent section of our local
 
 Due to the glass's volume change, we ditched the light ice, upped the Hpnotiq, and officially swapped over to smurfs blood. So the first potion bottle production version was as follows:
 
-[Mana Potion v2](https://agreeable-mud-04cfbdd10.5.azurestaticapps.net/drink/479/ManaPotionv2)
+[Mana Potion v2](https://afktavern.com/drink/479/ManaPotionv2)
 
 And with that, a legend was born. Photos of the mana potion ran wild on the internet. People called asking us wtf smurf blood was daily. I received emails asking about how we "made" the bottles. And a fair bit of hate mail for the color of the drink. It was fantastic; we knew we had a hit.
 
@@ -31,7 +31,7 @@ And with that, a legend was born. Photos of the mana potion ran wild on the inte
 
 The first document I can find relating to the next version is in late 2011. At this point, we were shooting for price reduction but profit increase on the entire menu. One of our astute employees pointed out we could save some money swapping to generics in a few drinks. I recall writing it with Kara late after close one night. This 2011 version wasn't much different, but they helped shape the future of the drink.
 
-[Mana Potion v3](https://agreeable-mud-04cfbdd10.5.azurestaticapps.net/drink/480/ManaPotionv3)
+[Mana Potion v3](https://afktavern.com/drink/480/ManaPotionv3)
 
 However, the Shake & Strain was also dropped sometime around here. I'm not sure when my documents have some gaps here. But when we got Powerade on the front gun, it came out cold enough and was no longer required. Although some bartenders still did it for the Liquor parts of the drink as late as 2014. I did it often because I felt it was "better this way." However, in 2014 we actually had people try the difference, and no one could tell. So like many things in my life, I was wrong.
 

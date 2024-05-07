@@ -6,7 +6,7 @@ The mana potion appeared on the first business plan in 2008 when AFK was still c
 
 As you can see, this is not even close to how the more modern Mana Potion looks. This version even went through modifications up to the day of launch. But the Pre-Launch Alpha recipe once served in my living room was this:
 
-[ManaPotion](https://agreeable-mud-04cfbdd10.5.azurestaticapps.net/drink/186/ManaPotionAlpha)
+[ManaPotion](https://afktavern.com/drink/186/ManaPotionAlpha)
 
 Serve the Mana Potion in a wine glass. You want first to add the Chambord, then ice. After that, pour your vodka, gin, and rum, then fill Gatorade and BAMMMM; you have a Pre-Launch Alpha Mana potion.
 
