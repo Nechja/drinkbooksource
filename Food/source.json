@@ -344,6 +344,40 @@
                 "Color": "Success"
             }
         ]
+    },
+    {
+        "Name": "Firebat Pasta",
+        "Verified": true,
+        "Link": "https://www.patreon.com/posts/food-firebat-76082827",
+        "Writer": "Kayla",
+        "Catagory": [
+            {
+                "Name": "Pasta",
+                "Primary": true
+            },
+            {
+                "Name": "Entr\u00e9es",
+                "Primary": false
+            }
+        ],
+        "Body": {
+            "Location": "pasta/",
+            "Link": "firebat.md",
+            "Body": "",
+            "Markdown": true
+        },
+        "Tags": [
+            {
+                "Value": "Pasta",
+                "TagType": "Type",
+                "Color": "Info"
+            },
+            {
+                "Value": "what people really want",
+                "TagType": "idefk",
+                "Color": "Warning"
+            }
+        ]
     }
 
 ]
