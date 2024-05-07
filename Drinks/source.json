@@ -50146,5 +50146,70 @@
                 "ClosingStatement": null
             }
         ]
+    },
+    {
+        "Name": "Deadpool Apocalypse",
+        "Id": 838,
+        "Verification": false,
+        "Ice": "/w ice",
+        "Garnish": [],
+        "Glass": "Pounder",
+        "Tags": [
+            {
+                "Value": "2020",
+                "Type": "Historical",
+                "Color": "Warning"
+            },
+            {
+                "Value": "Marvel",
+                "Type": "Genre",
+                "Color": "Success"
+            },
+            {
+                "Value": "Apocalypse",
+                "Type": "Historical",
+                "Color": "Warning"
+            },
+            {
+                "Value": "Deadpool",
+                "Type": " IP",
+                "Color": "Info"
+            }
+        ],
+        "Instructions": {
+            "noflag": [
+                {
+                    "Oz": 2.0,
+                    "Special": null,
+                    "Name": "Cherry Vodka",
+                    "Type": "Vodka"
+                },
+                {
+                    "Oz": 2.0,
+                    "Special": null,
+                    "Name": "Amaretto",
+                    "Type": "Liqueur"
+                },
+                {
+                    "Oz": 1.0,
+                    "Special": null,
+                    "Name": "Triple Sec",
+                    "Type": "Liqueur"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Lemonade",
+                    "Type": "Mixer"
+                }
+            ]
+        },
+        "Flags": [
+            {
+                "Name": "noflag",
+                "OpeningStatement": "",
+                "ClosingStatement": ""
+            }
+        ]
     }
 ]
