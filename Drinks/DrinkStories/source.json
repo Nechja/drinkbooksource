@@ -18,5 +18,10 @@
         "Name": "The Mana Potion's Wierd siblings",
         "Locations": "DrinkStories",
         "Link": "the-wierd-mana-potions.md"
+    },
+    {
+        "Name": "Dead Pool's 4th wall",
+        "Locations": "DrinkStories",
+        "Link": "dead-pools-4th-wall.md"
     }
 ]
