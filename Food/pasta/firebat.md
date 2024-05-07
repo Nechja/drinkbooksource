@@ -1,6 +1,7 @@
 # Firebat Sauce 
 ![firebat](images/firebat.bmp "the bat")
 > By: Kayla
+
 _Okay the real reason most of you clicked though this website or even think of the Tavern is right here, you can stop wondering, here it is._
 
 ## The History
