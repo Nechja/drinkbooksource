@@ -23,11 +23,15 @@
         "Name": "Dead Pool's 4th wall",
         "Locations": "DrinkStories",
         "Link": "dead-pools-4th-wall.md"
-    }
-    ,
+    },
     {
         "Name": "Klingon Blood Wine",
         "Locations": "DrinkStories",
         "Link": "bloodwine.md"
+    },
+    {
+        "Name": "The Onyxia",
+        "Locations": "DrinkStories",
+        "Link": "the-onyxia.md"
     }
 ]
