@@ -30471,15 +30471,11 @@
     {
         "Name": "Power Suit Samus",
         "Id": 499,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [
             "Orange Slice"
         ],
-        "Mod": {
-            "Name": "Zero Suit Samus",
-            "Id": 379
-        },
         "Glass": "Pounder",
         "LinkUrl": "https://www.patreon.com/posts/samus-and-suits-44687999",
         "Tags": [
@@ -30496,12 +30492,6 @@
         ],
         "Instructions": {
             "noflag": [
-                {
-                    "Oz": null,
-                    "Special": "float",
-                    "Name": "Blue Curacao",
-                    "Type": "Liqueur"
-                },
                 {
                     "Oz": 1.5,
                     "Special": null,
