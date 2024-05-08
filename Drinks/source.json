@@ -9688,7 +9688,7 @@
     {
         "Name": "Klingon Bloodwine Original 2011",
         "Id": 166,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Glass": "Bucket",
         "LinkUrl": "https://www.patreon.com/posts/klingon-48060889",
@@ -27730,7 +27730,7 @@
     {
         "Name": "Klingon Bloodwine 2016",
         "Id": 459,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w light ice",
         "Garnish": [],
         "Glass": "Globe",
@@ -27786,7 +27786,7 @@
     {
         "Name": "Klingon Bloodwine Apocalypse",
         "Id": 460,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w light ice",
         "Garnish": [],
         "Glass": "Metal Mug",
@@ -27853,7 +27853,7 @@
     {
         "Name": "Klingon Bloodwine TNG 2013",
         "Id": 461,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w light ice",
         "Garnish": [],
         "Glass": "Metal Mug",
@@ -27930,7 +27930,7 @@
     {
         "Name": "Klingon Bloodwine TNG 2016",
         "Id": 462,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w light ice",
         "Garnish": [],
         "Glass": "Metal Mug",
@@ -27997,7 +27997,7 @@
     {
         "Name": "Klingon Bloodwine TNG 2019",
         "Id": 463,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w light ice",
         "Garnish": [],
         "Glass": "Metal Mug",
@@ -50200,6 +50200,62 @@
                     "Oz": null,
                     "Special": "Fill",
                     "Name": "Lemonade",
+                    "Type": "Mixer"
+                }
+            ]
+        },
+        "Flags": [
+            {
+                "Name": "noflag",
+                "OpeningStatement": "",
+                "ClosingStatement": ""
+            }
+        ]
+    },
+    {
+        "Name": "Klingon Bloodwine (nonalcoholic)",
+        "Id": 839,
+        "Verification": true,
+        "Ice": "/w light ice",
+        "Garnish": [],
+        "Glass": "Metal Mug",
+        "LinkUrl": "",
+        "Tags": [ 
+            {
+                "Value": "Star Trek",
+                "Type": " IP",
+                "Color": "Info"
+            },
+            {
+                "Value": "Star Trekking Across The Universe",
+                "Type": "Theme Menu",
+                "Color": "Info"
+            }
+        ],
+        "Instructions": {
+            "noflag": [
+                {
+                    "Oz": 1.0,
+                    "Special": null,
+                    "Name": "Amaretto Syrup",
+                    "Type": "Syrup"
+                },
+                {
+                    "Oz": 1.0,
+                    "Special": null,
+                    "Name": "Ritual Zero Proof Rum",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": 3.0,
+                    "Special": null,
+                    "Name": "Grape Juice",
+                    "Type": "Juice"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Cranberry Juice",
                     "Type": "Mixer"
                 }
             ]
