@@ -13,3 +13,5 @@ Klingon Bloodwine, yet another drink to join our menu in the first few months of
 [Klingon Bloodwine Original 2016](https://afktavern.com/drink/462/KlingonBloodwineTNG2016)
 
 [KLINGON BLOODWINE APOCALYPSE](https://afktavern.com/drink/460/KlingonBloodwineApocalypse)
+
+[Boozle free Bloodwine](https://afktavern.com/drink/839/KlingonBloodwine(nonalcoholic))
