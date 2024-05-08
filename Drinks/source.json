@@ -19509,7 +19509,7 @@
     {
         "Name": "The Onyxia",
         "Id": 329,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Glass": "Pounder",
@@ -29834,7 +29834,7 @@
     {
         "Name": "Onyxia Apocalypse Soda (non-alcoholic)",
         "Id": 490,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Glass": "Pounder",
@@ -34036,7 +34036,7 @@
     {
         "Name": "The Alexstrasza",
         "Id": 547,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Mod": {
@@ -34228,7 +34228,7 @@
     {
         "Name": "The Chromie",
         "Id": 549,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Mod": {
@@ -34448,7 +34448,7 @@
     {
         "Name": "The Malygos",
         "Id": 552,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Mod": {
@@ -34534,7 +34534,7 @@
     {
         "Name": "The Nefarian",
         "Id": 553,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Mod": {
@@ -34615,7 +34615,7 @@
     {
         "Name": "The Onyxia 2016",
         "Id": 554,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Mod": {
@@ -34696,7 +34696,7 @@
     {
         "Name": "The Onyxia Apocalypse",
         "Id": 555,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Mod": {
@@ -34886,7 +34886,7 @@
     {
         "Name": "The Sinestra",
         "Id": 558,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Mod": {
@@ -35191,7 +35191,7 @@
     {
         "Name": "The Ysera",
         "Id": 562,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Mod": {
