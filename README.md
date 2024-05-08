@@ -8,7 +8,7 @@ Welcome to the GitHub repository of the once-beloved AFK Tavern. This archive ho
 
 ## Looking for a website?
 
-Right now all of this is deployed on an Azure Static app but it will make it to it's own domain when it's more polished. You can find that [here](https://agreeable-mud-04cfbdd10.5.azurestaticapps.net/).
+Right now all of this is deployed on an Azure Static app but it will make it to it's own domain when it's more polished. You can find that [here](afktavern.com).
 
 ## Usage
 
