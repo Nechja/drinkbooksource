@@ -30599,9 +30599,9 @@
         ]
     },
     {
-        "Name": "Power Suit Samus Apocalypse",
+        "Name": "Power Suit Samus Apocalypse Kit",
         "Id": 501,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Glass": "Mason Jar",
@@ -50246,6 +50246,73 @@
                     "Oz": null,
                     "Special": "Fill",
                     "Name": "Cranberry Juice",
+                    "Type": "Mixer"
+                }
+            ]
+        },
+        "Flags": [
+            {
+                "Name": "noflag",
+                "OpeningStatement": "",
+                "ClosingStatement": ""
+            }
+        ]
+    },
+    {
+        "Name": "Power Suit Samus Apocalypse",
+        "Id": 840,
+        "Verification": true,
+        "Ice": "/w ice",
+        "Garnish": [],
+        "Glass": "Mason Jar",
+        "LinkUrl": "https://www.patreon.com/posts/power-suit-part-44835264",
+        "Tags": [
+            {
+                "Value": "Apocalypse",
+                "Type": "Historical",
+                "Color": "Warning"
+            },
+            {
+                "Value": "Bounty Hunter",
+                "Type": "General",
+                "Color": "Normal"
+            },
+            {
+                "Value": "Metroid",
+                "Type": " IP",
+                "Color": "Info"
+            }
+        ],
+        "Instructions": {
+            "noflag": [
+                {
+                    "Oz": 1.5,
+                    "Special": null,
+                    "Name": "Kinky Pink",
+                    "Type": "Liqueur"
+                },
+                {
+                    "Oz": 1.5,
+                    "Special": null,
+                    "Name": "Cointreau",
+                    "Type": "Liqueur"
+                },
+                {
+                    "Oz": 1.0,
+                    "Special": null,
+                    "Name": "Orange Soda",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": 1.5,
+                    "Special": null,
+                    "Name": "Clementine Vodka",
+                    "Type": "Vodka"
+                },
+                {
+                    "Oz": null,
+                    "Special": "fill",
+                    "Name": "Orange & Pineapple Juice",
                     "Type": "Mixer"
                 }
             ]
