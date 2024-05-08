@@ -50227,15 +50227,15 @@
                 "Color": "Info"
             },
             {
-                "Value": "Star Trekking Across The Universe",
-                "Type": "Theme Menu",
-                "Color": "Info"
+                "Value": "Non-Alcoholic",
+                "Type": "Serving Info",
+                "Color": "Success"
             }
         ],
         "Instructions": {
             "noflag": [
                 {
-                    "Oz": 1.0,
+                    "Oz": 0.5,
                     "Special": null,
                     "Name": "Amaretto Syrup",
                     "Type": "Syrup"
