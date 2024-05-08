@@ -33,5 +33,16 @@
         "Name": "The Onyxia",
         "Locations": "DrinkStories",
         "Link": "the-onyxia.md"
+    },
+    {
+        "Name": "Power Suit #1",
+        "Locations": "DrinkStories",
+        "Link": "power-suit.md"
+    },
+    {
+        "Name": "Power Suit #2",
+        "Locations": "DrinkStories",
+        "Link": "power-suit.md"
     }
+
 ]
