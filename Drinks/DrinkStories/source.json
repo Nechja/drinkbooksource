@@ -60,6 +60,11 @@
         "Link": "violence.md"
     },
     {
+        "Name": "Lon Lon Milk",
+        "Locations": "DrinkStories",
+        "Link": "lonlon.md"
+    },
+    {
         "Name": "Ship and a Gun",
         "Locations": "DrinkStories",
         "Link": "shipandagun.md"
