@@ -58,6 +58,11 @@
         "Name": "The Drink called Violence",
         "Locations": "DrinkStories",
         "Link": "violence.md"
+    },
+    {
+        "Name": "Ship and a Gun",
+        "Locations": "DrinkStories",
+        "Link": "shipandagun.md"
     }
 
 ]
