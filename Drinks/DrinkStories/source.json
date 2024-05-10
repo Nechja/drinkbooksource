@@ -43,6 +43,18 @@
         "Name": "Power Suit part 2",
         "Locations": "DrinkStories",
         "Link": "power-suit-2.md"
+    },
+    {
+        "Name": "Fanfic Night theme menu from 2016",
+        "Locations": "DrinkStories",
+        "Link": "fanfic-theme-menu.md"
+    },
+    {
+        "Name": "Sereni-Tea",
+        "Locations": "DrinkStories",
+        "Link": "sereni-tea.md"
     }
+
+
 
 ]
