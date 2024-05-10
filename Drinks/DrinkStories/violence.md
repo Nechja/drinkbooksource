@@ -1,5 +1,5 @@
 # The Drink called #Violence
-[V](images/v.bmp "v")
+![V](images/v.bmp "v")
 
 Why, you may ask, was there a drink called #Violence referencing some woman going "full auto" on the AFK Menu? To answer that, we need to talk about a weird AFK drink tradition and a little bit about a Role-Playing game.
 
