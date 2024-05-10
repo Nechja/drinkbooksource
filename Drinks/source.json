@@ -27508,7 +27508,7 @@
     {
         "Name": "Jaded Dawn",
         "Id": 456,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Mod": {
@@ -31918,7 +31918,7 @@
     {
         "Name": "Shara",
         "Id": 521,
-        "Verification": false,
+        "Verification": true,
         "Ice": "/w ice",
         "Garnish": [],
         "Mod": {
@@ -49320,7 +49320,7 @@
     {
         "Name": "Dependency Injection",
         "Id": 823,
-        "Verification": false,
+        "Verification": true,
         "Garnish": [],
         "Glass": "Drop Shot",
         "Tags": [],
