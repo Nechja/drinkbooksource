@@ -1,3 +1,6 @@
+#### Updates - 5/19/2024
+Oh hey...How's it going? I added some qol things folks asked for. Now the back arrow on drinks takes you back to your search. 🎉
+
 #### Updates - 5/8/2024
 _...oh hello..._ it looks like a few people found this right quick. I've added a few more drink stories and a "last updated" tag on the main page and this page. An ex-afk-staffer has contacted me about updating drinks they've noticed are missing. Hooray! I'm happy to see so many people excited about this; truth be told, I wondered if many people would find this. It turns out many people found it.
 
