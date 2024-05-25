@@ -23,6 +23,8 @@ We welcome contributions from our community. If you spot any errors, typos, or h
 3. Run the `DrinkSchemaValidator` and `FoodSchemaValidator` script to check for data consistency.
 4. If all tests pass, submit a merge request with your proposed changes.
 
+If you struggle with Json, [this tool may help you struggle](https://afktavern.com/noclip) slightly less... 
+
 ## Validation
 
 To maintain the integrity of the data, we require all submissions to pass our validation checks one of the `SchemaValidator` script included in the repository.
