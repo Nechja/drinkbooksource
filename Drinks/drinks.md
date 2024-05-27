@@ -1,4 +1,4 @@
-## {'Name': '#Violence', 'Id': 3}
+## Root Drink: #Violence
 
 # #DREAD
 
@@ -59,7 +59,7 @@ _[Wow]_
 ---
 
 
-## {'Name': '1000 Needles (2012 version)', 'Id': 5}
+## Root Drink: 1000 Needles (2012 version)
 
 # 1000 NEEDLES (2016 VERSION)
 
@@ -80,7 +80,7 @@ _[Wow]_
 ---
 
 
-## {'Name': '1000 Needles (2012 version)', 'Id': 5}
+## Root Drink: 1000 Needles (2012 version)
 
 # 1000 NEEDLES (APOCALYPSE VERSION)
 
@@ -99,7 +99,7 @@ _[Wow]_
 ---
 
 
-## {'Name': '1000 Needles (2012 version)', 'Id': 5}
+## Root Drink: 1000 Needles (2012 version)
 
 # 1000 NEEDLES (NON-ALCOHOLIC)
 
@@ -659,7 +659,7 @@ _[Star Wars]_
 ---
 
 
-## {'Name': 'Flutteryshy Mai Tai', 'Id': 95}
+## Root Drink: Flutteryshy Mai Tai
 
 # APOCOSHY MAI TAI (ADJACENT VERSION)
 
@@ -757,7 +757,7 @@ _[Skyrim]_
 ---
 
 
-## {'Name': 'Arrow to the Knee', 'Id': 23}
+## Root Drink: Arrow to the Knee
 
 # ARROW TO THE KNEE DLC
 
@@ -1092,7 +1092,7 @@ _[Dungeons And Dragons]_
 ---
 
 
-## {'Name': 'Battle of Serenity Valley', 'Id': 32}
+## Root Drink: Battle of Serenity Valley
 
 # BATTLE OF SERENITY VALLEY V2
 
@@ -1144,7 +1144,7 @@ _[Non-Alcoholic]_
 ---
 
 
-## {'Name': 'Azgalor', 'Id': 28}
+## Root Drink: Azgalor
 
 # BATTLE RES
 
@@ -1546,7 +1546,7 @@ _[Tonight In Alpha Complex]_
 ---
 
 
-## {'Name': 'Bouncy Bubbly Beverage', 'Id': 42}
+## Root Drink: Bouncy Bubbly Beverage
 
 # BOUNCY BUBBLY BEVERAGE UV EDITION
 
@@ -1872,7 +1872,7 @@ _[Robinson]_
 ---
 
 
-## {'Name': 'Challenge Accepted (Tavern)', 'Id': 54}
+## Root Drink: Challenge Accepted (Tavern)
 
 # CHALLENGE ACCEPTED (E&E)
 
@@ -2315,7 +2315,7 @@ _[Overwatch]_
 ---
 
 
-## {'Name': 'Dad of War', 'Id': 67}
+## Root Drink: Dad of War
 
 # DAD OF APOCALYPSE
 
@@ -2346,7 +2346,7 @@ _[God Of War]_
 ---
 
 
-## {'Name': 'Dad of War', 'Id': 67}
+## Root Drink: Dad of War
 
 # DAD OF WAR (RYE ALTERNATIVE)
 
@@ -2415,7 +2415,7 @@ _[Totally Different]_
 ---
 
 
-## {'Name': 'The Dark Knight', 'Id': 312}
+## Root Drink: The Dark Knight
 
 # DARK KNIGHT RETURNS
 
@@ -2762,7 +2762,7 @@ _[Purge]_
 ---
 
 
-## {'Name': 'Archimonde', 'Id': 21}
+## Root Drink: Archimonde
 
 # DON'T STAND IN FIRE
 
@@ -2810,7 +2810,7 @@ _[Spicy]_
 ---
 
 
-## {'Name': "Don't fear the reaper", 'Id': 75}
+## Root Drink: Don't fear the reaper
 
 # DONT FEAR THE REAPER (THE MIX)
 
@@ -2906,7 +2906,7 @@ _[Mage Menu]_
 ---
 
 
-## {'Name': 'Dragon Blood (2012)', 'Id': 78}
+## Root Drink: Dragon Blood (2012)
 
 # DRAGON BLOOD (ALTERNATE)
 
@@ -3276,7 +3276,7 @@ _[2019]_
 ---
 
 
-## {'Name': 'The final Hunt of my friend, my enemy', 'Id': 340}
+## Root Drink: The final Hunt of my friend, my enemy
 
 # EXTRAS: BROWN SUGAR SIMPLE SYRUP
 
@@ -3774,7 +3774,7 @@ _[My Little Pony]_
 ---
 
 
-## {'Name': 'Flutteryshy Mai Tai', 'Id': 95}
+## Root Drink: Flutteryshy Mai Tai
 
 # FLUTTERYSHY MAI TAI (APOCALYPSE)
 
@@ -4755,7 +4755,7 @@ _[Mana Potion Now In Red]_
 ---
 
 
-## {'Name': 'HP Potion #1', 'Id': 452}
+## Root Drink: HP Potion #1
 
 # HP POTION #2
 
@@ -5826,7 +5826,7 @@ _[Inside Joke]_
 ---
 
 
-## {'Name': '#Violence', 'Id': 3}
+## Root Drink: #Violence
 
 # JADED DAWN
 
@@ -6068,7 +6068,7 @@ _[One Of The Few Unchanged AFK Classics]_
 ---
 
 
-## {'Name': "Kirby's Adventure", 'Id': 165}
+## Root Drink: Kirby's Adventure
 
 # KIRBY'S ADVENTURE (NON-ALCOHOLIC)
 
@@ -6783,7 +6783,7 @@ _[Sparkly]_
 ---
 
 
-## {'Name': 'Power Word: DEATH', 'Id': 237}
+## Root Drink: Power Word: DEATH
 
 # MA DUECE
 
@@ -6831,7 +6831,7 @@ _[Pokemon]_
 ---
 
 
-## {'Name': 'Mai Pikachu', 'Id': 183}
+## Root Drink: Mai Pikachu
 
 # MAI PIKAPOCALYPSE
 
@@ -6907,7 +6907,7 @@ _[Addams Family]_
 ---
 
 
-## {'Name': 'Mana Potion Alpha', 'Id': 186}
+## Root Drink: Mana Potion Alpha
 
 # MANA POTION (RELEASE VERSION)
 
@@ -6932,7 +6932,7 @@ _[More Versions Than You Have Socks In A Drawer]_
 ---
 
 
-## {'Name': 'Mana Potion Alpha', 'Id': 186}
+## Root Drink: Mana Potion Alpha
 
 # MANA POTION (NON-ALCOHOLIC)
 
@@ -6978,7 +6978,7 @@ _[Og AFK Classics]_
 ---
 
 
-## {'Name': 'Mana Potion Alpha', 'Id': 186}
+## Root Drink: Mana Potion Alpha
 
 # MANA POTION APOCALYPSE
 
@@ -6998,7 +6998,7 @@ _[The End Of The Blue]_
 ---
 
 
-## {'Name': 'Mana Potion Alpha', 'Id': 186}
+## Root Drink: Mana Potion Alpha
 
 # MANA POTION UV EDITION
 
@@ -7018,7 +7018,7 @@ _[Fantasy]_
 ---
 
 
-## {'Name': 'Mana Potion Alpha', 'Id': 186}
+## Root Drink: Mana Potion Alpha
 
 # MANA POTION V2
 
@@ -7042,7 +7042,7 @@ _[More Versions Than You Have Socks In A Drawer]_
 ---
 
 
-## {'Name': 'Mana Potion Alpha', 'Id': 186}
+## Root Drink: Mana Potion Alpha
 
 # MANA POTION V3
 
@@ -7066,7 +7066,7 @@ _[More Versions Than You Have Socks In A Drawer]_
 ---
 
 
-## {'Name': 'Mana Potion Alpha', 'Id': 186}
+## Root Drink: Mana Potion Alpha
 
 # MANA POTION V4
 
@@ -7092,7 +7092,7 @@ _[Morsels To Tribble Ratios Honestly]_
 ---
 
 
-## {'Name': "Kaz'rogal", 'Id': 162}
+## Root Drink: Kaz'rogal
 
 # MANA POT
 
@@ -7271,7 +7271,7 @@ _[Overwatch]_
 ---
 
 
-## {'Name': "Mei's Endothermic Smash", 'Id': 191}
+## Root Drink: Mei's Endothermic Smash
 
 # MEI'S ENDOTHERMIC SMASH HOME VERSION
 
@@ -7881,7 +7881,7 @@ _[2012 Halloween Menu]_
 ---
 
 
-## {'Name': 'We Should Have Shotguns For This', 'Id': 365}
+## Root Drink: We Should Have Shotguns For This
 
 # NEVERMIND
 
@@ -7983,7 +7983,7 @@ _[Such A Cool Name Rebranded Boringly]_
 ---
 
 
-## {'Name': 'Obi-wan Kenobi Padawan version', 'Id': 222}
+## Root Drink: Obi-wan Kenobi Padawan version
 
 # OBI-WAN KENOBI JEDI MASTER
 
@@ -8204,7 +8204,7 @@ _[Kayla]_
 ---
 
 
-## {'Name': 'Pan-Galactic Gargle Blaster', 'Id': 224}
+## Root Drink: Pan-Galactic Gargle Blaster
 
 # PAN-GALACTIC GARGLE APOCALYPSE BLASTER
 
@@ -8264,7 +8264,7 @@ _[Zaphod Beeblebrox]_
 ---
 
 
-## {'Name': 'Pan-Galactic Gargle Blaster', 'Id': 224}
+## Root Drink: Pan-Galactic Gargle Blaster
 
 # PAN-GALACTIC GARGLE BLASTER V2
 
@@ -8484,7 +8484,7 @@ _[Tabletop]_
 ---
 
 
-## {'Name': 'Poison Bottle', 'Id': 233}
+## Root Drink: Poison Bottle
 
 # POISON BOTTLE APOCALYPSE
 
@@ -8504,7 +8504,7 @@ _[Tabletop]_
 ---
 
 
-## {'Name': 'Poison Bottle', 'Id': 233}
+## Root Drink: Poison Bottle
 
 # POISON BOTTLE V2
 
@@ -9491,7 +9491,7 @@ _[Steven Universe]_
 ---
 
 
-## {'Name': 'Mana Potion Alpha', 'Id': 186}
+## Root Drink: Mana Potion Alpha
 
 # ROUGE POTION #1
 
@@ -9514,7 +9514,7 @@ _[Fantasy]_
 ---
 
 
-## {'Name': 'Mana Potion Alpha', 'Id': 186}
+## Root Drink: Mana Potion Alpha
 
 # ROUGE POTION #2
 
@@ -9556,7 +9556,7 @@ _[Purge]_
 ---
 
 
-## {'Name': 'Royal Ice Tea', 'Id': 255}
+## Root Drink: Royal Ice Tea
 
 # ROYAL ICE TEA V2
 
@@ -9683,7 +9683,7 @@ _[Death Note]_
 ---
 
 
-## {'Name': 'Ryuk the Shinigami', 'Id': 259}
+## Root Drink: Ryuk the Shinigami
 
 # RYUK THE SHINIGAMI APOCALYPSE
 
@@ -9714,7 +9714,7 @@ _[Witch]_
 ---
 
 
-## {'Name': 'Sweet Saffron', 'Id': 391}
+## Root Drink: Sweet Saffron
 
 # SAFFRON INFUSED CREAM
 
@@ -10113,7 +10113,7 @@ _[Serenity]_
 ---
 
 
-## {'Name': 'Battle of Serenity Valley', 'Id': 32}
+## Root Drink: Battle of Serenity Valley
 
 # SERENITY VALLEY HOLDOUT
 
@@ -10131,7 +10131,7 @@ _[Serenity]_
 ---
 
 
-## {'Name': 'Battle of Serenity Valley', 'Id': 32}
+## Root Drink: Battle of Serenity Valley
 
 # SERENITY VALLEY MEDIC
 
@@ -10235,7 +10235,7 @@ _[WoW]_
 ---
 
 
-## {'Name': '#Violence', 'Id': 3}
+## Root Drink: #Violence
 
 # SHARA
 
@@ -10592,7 +10592,7 @@ _[Star Wars]_
 ---
 
 
-## {'Name': "Smuggler's Choice", 'Id': 282}
+## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE (AWAKENS FROM A NAP)
 
@@ -10610,7 +10610,7 @@ _[MOD]_
 ---
 
 
-## {'Name': "Smuggler's Choice", 'Id': 282}
+## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE (BUT ITS A DARK ELF RANGER)
 
@@ -10632,7 +10632,7 @@ _[Mods]_
 ---
 
 
-## {'Name': "Smuggler's Choice", 'Id': 282}
+## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE (DARTH JARJAR)
 
@@ -10651,7 +10651,7 @@ _[Star Wars]_
 ---
 
 
-## {'Name': "Smuggler's Choice", 'Id': 282}
+## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE (HAN SHOT FIRST)
 
@@ -10670,7 +10670,7 @@ _[Star Wars]_
 ---
 
 
-## {'Name': "Smuggler's Choice", 'Id': 282}
+## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE (NOOOOOOOOOOOOOOOO)
 
@@ -10689,7 +10689,7 @@ _[Star Wars]_
 ---
 
 
-## {'Name': "Smuggler's Choice", 'Id': 282}
+## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE (PURE SABACC HAND)
 
@@ -10707,7 +10707,7 @@ _[Star Wars]_
 ---
 
 
-## {'Name': "Smuggler's Choice", 'Id': 282}
+## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE (RAGNAROK)
 
@@ -10725,7 +10725,7 @@ _[Star Wars]_
 ---
 
 
-## {'Name': "Smuggler's Choice", 'Id': 282}
+## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE V1 REMASTERED
 
@@ -10743,7 +10743,7 @@ _[Star Wars]_
 ---
 
 
-## {'Name': "Smuggler's Choice", 'Id': 282}
+## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE V2 REMASTERED AGAIN
 
@@ -10897,7 +10897,7 @@ _[WAR]_
 ---
 
 
-## {'Name': 'Sonic Screwdriver 10th Doctor', 'Id': 285}
+## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER 10TH DOCTOR 2016
 
@@ -10923,7 +10923,7 @@ _[WAR]_
 ---
 
 
-## {'Name': 'Sonic Screwdriver 10th Doctor', 'Id': 285}
+## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER 10TH DOCTOR APOCALYPSE
 
@@ -10949,7 +10949,7 @@ _[WAR]_
 ---
 
 
-## {'Name': 'Sonic Screwdriver 10th Doctor', 'Id': 285}
+## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER 11TH DOCTOR
 
@@ -10974,7 +10974,7 @@ _[WAR]_
 ---
 
 
-## {'Name': 'Sonic Screwdriver 10th Doctor', 'Id': 285}
+## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER 13TH DOCTOR
 
@@ -11000,7 +11000,7 @@ _[WAR]_
 ---
 
 
-## {'Name': 'Sonic Screwdriver 10th Doctor', 'Id': 285}
+## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER 4TH DOCTOR
 
@@ -11025,7 +11025,7 @@ _[WAR]_
 ---
 
 
-## {'Name': 'Sonic Screwdriver 10th Doctor', 'Id': 285}
+## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER 9TH DOCTOR
 
@@ -11051,7 +11051,7 @@ _[WAR]_
 ---
 
 
-## {'Name': 'Sonic Screwdriver 10th Doctor', 'Id': 285}
+## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER RIVER SONG
 
@@ -11077,7 +11077,7 @@ _[WAR]_
 ---
 
 
-## {'Name': 'Sonic Screwdriver 10th Doctor', 'Id': 285}
+## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER TIME WAR
 
@@ -11103,7 +11103,7 @@ _[WAR]_
 ---
 
 
-## {'Name': 'Sonic Screwdriver 10th Doctor', 'Id': 285}
+## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER WAR DOCTOR
 
@@ -11431,7 +11431,7 @@ _[Twilight]_
 ---
 
 
-## {'Name': 'Still a Better Love Story Than Twilight', 'Id': 298}
+## Root Drink: Still a Better Love Story Than Twilight
 
 # STILL A BETTER LOVE STORY THAN TWILIGHT APOCALYPSE
 
@@ -11456,7 +11456,7 @@ _[Twilight]_
 ---
 
 
-## {'Name': 'Still a Better Love Story Than Twilight', 'Id': 298}
+## Root Drink: Still a Better Love Story Than Twilight
 
 # STILL A BETTER LOVE STORY THAN TWILIGHT V2015
 
@@ -11485,7 +11485,7 @@ _[Twilight]_
 ---
 
 
-## {'Name': 'Still a Better Love Story Than Twilight', 'Id': 298}
+## Root Drink: Still a Better Love Story Than Twilight
 
 # STILL A BETTER LOVE STORY THAN TWILIGHT V2017
 
@@ -11513,7 +11513,7 @@ _[Twilight]_
 ---
 
 
-## {'Name': 'Still a Better Love Story Than Twilight', 'Id': 298}
+## Root Drink: Still a Better Love Story Than Twilight
 
 # STILL A BETTER LOVE STORY THAN TWILIGHT V2019
 
@@ -11623,7 +11623,7 @@ _[WoW]_
 ---
 
 
-## {'Name': 'Anetheron', 'Id': 18}
+## Root Drink: Anetheron
 
 # SULFURON SLAMMER
 
@@ -11656,7 +11656,7 @@ _[Serenity]_
 ---
 
 
-## {'Name': 'Sweet Saffron', 'Id': 391}
+## Root Drink: Sweet Saffron
 
 # SWEET SAFFRON (LOST VERSION)
 
@@ -11918,7 +11918,7 @@ _[Alpha Menu]_
 ---
 
 
-## {'Name': 'The Onyxia', 'Id': 329}
+## Root Drink: The Onyxia
 
 # THE ALEXSTRASZA
 
@@ -12099,7 +12099,7 @@ _[Dungeons & Dragons]_
 ---
 
 
-## {'Name': 'The Onyxia', 'Id': 329}
+## Root Drink: The Onyxia
 
 # THE CHROMIE
 
@@ -12238,7 +12238,7 @@ _[The Final Days]_
 ---
 
 
-## {'Name': 'Ice Orb Sorceress', 'Id': 152}
+## Root Drink: Ice Orb Sorceress
 
 # THE FROST MAGE
 
@@ -12258,7 +12258,7 @@ _[WoW]_
 ---
 
 
-## {'Name': 'Ice Orb Sorceress', 'Id': 152}
+## Root Drink: Ice Orb Sorceress
 
 # THE FROST MAGE (NON-ALCOHOLIC)
 
@@ -12616,7 +12616,7 @@ _[The Legends]_
 ---
 
 
-## {'Name': 'The Onyxia', 'Id': 329}
+## Root Drink: The Onyxia
 
 # THE MALYGOS
 
@@ -12699,7 +12699,7 @@ _[Doctor Who]_
 ---
 
 
-## {'Name': 'The Onyxia', 'Id': 329}
+## Root Drink: The Onyxia
 
 # THE NEFARIAN
 
@@ -12797,7 +12797,7 @@ _[WoW]_
 ---
 
 
-## {'Name': 'The Onyxia', 'Id': 329}
+## Root Drink: The Onyxia
 
 # THE ONYXIA 2016
 
@@ -12819,7 +12819,7 @@ _[WoW]_
 ---
 
 
-## {'Name': 'The Onyxia', 'Id': 329}
+## Root Drink: The Onyxia
 
 # THE ONYXIA APOCALYPSE
 
@@ -13022,7 +13022,7 @@ _[Serenity]_
 ---
 
 
-## {'Name': 'The Onyxia', 'Id': 329}
+## Root Drink: The Onyxia
 
 # THE SINESTRA
 
@@ -13044,7 +13044,7 @@ _[WoW]_
 ---
 
 
-## {'Name': 'The Onyxia', 'Id': 329}
+## Root Drink: The Onyxia
 
 # THE SINESTRA APOCALYPSE
 
@@ -13106,7 +13106,7 @@ _[REN]_
 ---
 
 
-## {'Name': 'The Telophoroi’s Scheming', 'Id': 336}
+## Root Drink: The Telophoroi’s Scheming
 
 # THE TELOPHOROI’S SCHEMING (PITCHER VERSION)
 
@@ -13194,7 +13194,7 @@ _[Summer]_
 ---
 
 
-## {'Name': 'The Onyxia', 'Id': 329}
+## Root Drink: The Onyxia
 
 # THE YSERA
 
@@ -13625,7 +13625,7 @@ _[ATLA]_
 ---
 
 
-## {'Name': 'Rage Winterchill', 'Id': 244}
+## Root Drink: Rage Winterchill
 
 # USE YOUR TRINKET
 
@@ -14825,7 +14825,7 @@ _[Zombie Night]_
 ---
 
 
-## {'Name': '[Thunderfury, Blessed Blade of the Windseeker]', 'Id': 380}
+## Root Drink: [Thunderfury, Blessed Blade of the Windseeker]
 
 # [CORRUPTED ASHBRINGER]
 
@@ -14854,7 +14854,7 @@ _[WoW]_
 ---
 
 
-## {'Name': '[Thunderfury, Blessed Blade of the Windseeker]', 'Id': 380}
+## Root Drink: [Thunderfury, Blessed Blade of the Windseeker]
 
 # [SHADOWMOURN]
 
