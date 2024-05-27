@@ -219,8 +219,8 @@ _[Zombie Night]_
 
 **Glass:** Irish Coffee
 
-**Garnish:**
-- Whipped Cream (Optional)
+**Garnish: **
+Whipped Cream (Optional)
 - 1.0 oz Cold Spell Mint Whiskey
 - 1.0 oz Irish Cream
 - 1 full packet Hot Chocolate
@@ -239,8 +239,8 @@ _[Zombie Night]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Jalapeno Slice
+**Garnish: **
+Jalapeno Slice
 
 **In shaker /w ice:**
 
@@ -288,8 +288,8 @@ _[2011]_
 
 **Glass:** Retro Glassware
 
-**Garnish:**
-- A Spoon
+**Garnish: **
+A Spoon
 - 0.5 oz Apple Pie Whiskey
 - 0.5 oz Passion Fruit Rum
 - 0.5 oz House Gin
@@ -404,8 +404,8 @@ _[ATLA]_
 
 **Glass:** Mason Jar
 
-**Garnish:**
-- Mint Leaves
+**Garnish: **
+Mint Leaves
 - 7 leaves, Muddled Mint
 - 2 wedges, muddled Lime
 - 2.5 oz House Rum
@@ -444,8 +444,8 @@ _[ATLA]_
 
 **Glass:** Collins
 
-**Garnish:**
-- Mint Leaves
+**Garnish: **
+Mint Leaves
 - 2.0 oz Sweetened Lime Juice
 - 2.0 oz Redrum
 - Fill Cranberry Juice And Sprite
@@ -467,8 +467,8 @@ _[2012]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Orange Slice
+**Garnish: **
+Orange Slice
 
 **In shaker /w ice:**
 
@@ -666,8 +666,8 @@ _[Star Wars]_
 **Glass:** Mason Jar
  /w ice
 
-**Garnish:**
-- Pineapple Ring
+**Garnish: **
+Pineapple Ring
 - 2.0 oz Bols Strawberry
 - 2.0 oz House Silver Rum
 - 2.0 oz Orange Juice
@@ -1077,9 +1077,9 @@ _[E&E]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Lime Wedge
-- Cherry
+**Garnish: **
+Lime Wedge, 
+and Cherry
 - 1.0 oz Passion Fruit Rum
 - 1.0 oz Clementine Vodka
 - fill Rockstar
@@ -1571,8 +1571,8 @@ _[Tonight In Alpha Complex]_
 **Glass:** Collins
  /w ice
 
-**Garnish:**
-- Lime Zest
+**Garnish: **
+Lime Zest
 
 **In shaker /w ice:**
 
@@ -1764,8 +1764,8 @@ _[Robinson]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Cherry
+**Garnish: **
+Cherry
 
 **In shaker /w ice:**
 
@@ -1856,8 +1856,8 @@ _[Dragons]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Mint Sprig
+**Garnish: **
+Mint Sprig
 - 1.5 oz House Vodka
 - 1.0 oz Lillet Blanc
 - desired amount of edible glitter Blue Luster Dust
@@ -1951,8 +1951,8 @@ _[Dungeons & Dragons]_
 
 **Glass:** Hurricane
 
-**Garnish:**
-- Orange Slice
+**Garnish: **
+Orange Slice
 
 **Before Ice:**
 
@@ -2208,8 +2208,8 @@ _[ATLA]_
 **Glass:** Plastic Cup
  /w ice
 
-**Garnish:**
-- Lime
+**Garnish: **
+Lime
 - Fill Ginger Ale
 - 0.5 oz Sweetened Lime Juice
 - Splash Chai Tea Simple Syrup
@@ -2243,8 +2243,8 @@ _[Purge]_
 **Glass:** Hurricane
  /w ice
 
-**Garnish:**
-- Pumpkin Spice Mix
+**Garnish: **
+Pumpkin Spice Mix
 - 1.0 oz Bacardi Dragonberry
 - 1.0 oz Fireball Cinnamon Whisky
 - Fill Lemonade
@@ -2421,8 +2421,8 @@ _[Totally Different]_
 
 **Glass:** Irish Coffee Mug
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 0.5 oz Grind Espresso Liqueur
 - 0.5 oz Pinnacle Whipped Vodka
 - 0.5 oz Chocolate Vodka
@@ -2495,8 +2495,8 @@ _[Pirate Night]_
 **Glass:** Retro Glassware
  /w ice
 
-**Garnish:**
-- Mint Leaves
+**Garnish: **
+Mint Leaves
 - 2 dots Winter Melon Bitters
 - 2.0 oz Smirnoff Sugar-Free Mint Watermelon Vodka
 - Fill Soda Water
@@ -2613,9 +2613,9 @@ _[Star Wars]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Mint Leaves
-- Orange Slice
+**Garnish: **
+Mint Leaves, 
+and Orange Slice
 - 2.0 oz House Vodka
 - 1.0 oz Grand Marnier
 - 1 freshly juiced orange Orange Juice
@@ -2703,8 +2703,8 @@ _[Pirate Night]_
 **Glass:** Big Wine Glass
  /w ice
 
-**Garnish:**
-- 2 Cherries
+**Garnish: **
+2 Cherries
 - 0.5 oz Amaretto
 - Splash Grenadine
 - 1.0 oz Red Cherry Vodka
@@ -2724,8 +2724,8 @@ _[Deadpool]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Gummy Worms
+**Garnish: **
+Gummy Worms
 - 1.0 oz Bacardi Limon
 - 0.5 oz Triple Sec
 - 0.5 oz House Gin
@@ -3096,8 +3096,8 @@ _[ATLA]_
 
 **Glass:** Mason Jar
 
-**Garnish:**
-- Mint Leaves
+**Garnish: **
+Mint Leaves
 - 7 leaves, Muddled Mint
 - 2 wedges, muddled Lime
 - 1.5 oz House Rum
@@ -3139,8 +3139,8 @@ _[ATLA]_
 **Glass:** Martini Shell
  Shake and strain
 
-**Garnish:**
-- Pickled Jalapeno
+**Garnish: **
+Pickled Jalapeno
 - 1.5 oz Mezcal
 - 0.5 oz Simple Syrup
 - 0.5 oz Honey
@@ -3192,8 +3192,8 @@ _[Dungeons And Dragons]_
 **Glass:** Bucket
  /w ice
 
-**Garnish:**
-- Lime
+**Garnish: **
+Lime
 - 1.5 oz House Vodka
 - 1.0 oz Amaretto
 - 1.0 oz Lychee Syrup
@@ -3209,8 +3209,8 @@ _[2011]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Lemon
+**Garnish: **
+Lemon
 
 **In shaker /w ice:**
 
@@ -3258,8 +3258,8 @@ _[E&E]_
 
 **Glass:** Wine Glass
 
-**Garnish:**
-- Red Rose Petals
+**Garnish: **
+Red Rose Petals
 
 **In shaker /w ice:**
 
@@ -3573,8 +3573,8 @@ _[ATLA]_
 
 **Glass:** Mason Jar
 
-**Garnish:**
-- Mint Leaves
+**Garnish: **
+Mint Leaves
 - 7 leaves, Muddled Mint
 - 2 wedges, Muddled Lime
 - 1.5 oz House Rum
@@ -3631,9 +3631,9 @@ _[ATLA]_
 
 **Glass:** Collins
 
-**Garnish:**
-- Lime
-- Lemon Zest
+**Garnish: **
+Lime, 
+and Lemon Zest
 
 **In shaker /w ice:**
 
@@ -3693,8 +3693,8 @@ _[Purge]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Gummy Worms
+**Garnish: **
+Gummy Worms
 
 **In shaker /w ice:**
 
@@ -3806,9 +3806,9 @@ _[My Little Pony]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Whipped Cream
-- 2 Cherries
+**Garnish: **
+Whipped Cream, 
+and 2 Cherries
 
 **In shaker /w ice:**
 
@@ -4220,8 +4220,8 @@ _[Rockets]_
 **Glass:** Goblet
  /w ice
 
-**Garnish:**
-- Orange Peel
+**Garnish: **
+Orange Peel
 
 **Before Ice:**
 
@@ -4545,8 +4545,8 @@ _[2010]_
 
 **Glass:** Irish Coffee
 
-**Garnish:**
-- Lemon
+**Garnish: **
+Lemon
 - 1 teaspoon, (2 calories) Pantone Color Of The Year 2020 Tea
 - 1.0 oz (70 cal) House Whiskey
 - 0.5 oz (42 cal) optional Honey
@@ -4684,8 +4684,8 @@ _[Such A Cool Name Rebranded Boringly]_
 
 **Glass:** Potion
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1.0 oz Frangelico
 - 1.0 oz Evan Williams Honey
 - 0.5 oz White Crème De Cacao
@@ -4929,8 +4929,8 @@ _[Zelda]_
 **Glass:** Martini Shell
  /w ice
 
-**Garnish:**
-- Woodford Reserve Bourbon Cherry
+**Garnish: **
+Woodford Reserve Bourbon Cherry
 
 **In shaker /w ice:**
 
@@ -5017,8 +5017,8 @@ _[Adventure Time]_
 
 **Glass:** Mason Jar
 
-**Garnish:**
-- Orange Slice
+**Garnish: **
+Orange Slice
 - 1.0 oz Apple Pie Moonshine
 - 1.0 oz Mead
 - fill On Tap Cider
@@ -5295,8 +5295,8 @@ _[Such A Cool Name Rebranded Boringly]_
 
 **Glass:** Rocks
 
-**Garnish:**
-- Woodford Reserve Bourbon Cherry
+**Garnish: **
+Woodford Reserve Bourbon Cherry
 - 1.5 oz Woodford Reserve Master's Collection Cherry Wood Smoked Barley
 - 0.5 oz float Dead Guy Whiskey
 
@@ -5360,8 +5360,8 @@ _[Out Of Mana]_
 **Glass:** Bucket
  1 large cube
 
-**Garnish:**
-- Orange Peel
+**Garnish: **
+Orange Peel
 
 **In shaker /w ice:**
 
@@ -5386,8 +5386,8 @@ _[REN]_
 
 **Glass:** Hurricane
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1.0 oz Rumplemintz
 - 1.0 oz Coffee Liqueur
 - Fill- milk substitutes (almond, oat, etc) work well Cream
@@ -5444,9 +5444,9 @@ _[Wow]_
 **Glass:** Collins
  /w ice
 
-**Garnish:**
-- Mint Leaves
-- Lemon
+**Garnish: **
+Mint Leaves, 
+and Lemon
 - 1.5 oz Empress 1908 Gin
 - 1.0 oz Four Tea Simple Syrup
 - fill Tonic
@@ -5741,8 +5741,8 @@ _[Zelda]_
 **Glass:** Bucket
  /w ice
 
-**Garnish:**
-- Cherry
+**Garnish: **
+Cherry
 - 1.0 oz House Whiskey
 - 0.5 oz Peach Schnapps
 - Fill Cranberry Juice
@@ -5758,8 +5758,8 @@ _[Overwatch]_
 **Glass:** Rocks
  /w light ice
 
-**Garnish:**
-- Lemon Wedge
+**Garnish: **
+Lemon Wedge
 - 1.0 oz House Vodka
 - 1.0 oz Peach Schnapps
 - Fill Sprite
@@ -5775,8 +5775,8 @@ _[Memes]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Celery Stick
+**Garnish: **
+Celery Stick
 
 **Before Ice:**
 
@@ -5883,8 +5883,8 @@ _[Star Wars]_
 **Glass:** Collins
  /w ice
 
-**Garnish:**
-- Lemon
+**Garnish: **
+Lemon
 - 1.0 oz Blue Curacao
 - 1.0 oz Kinky Blue
 - 1.0 oz House Gin
@@ -5939,8 +5939,8 @@ _[Serenity]_
 **Glass:** Collins
  /w light ice
 
-**Garnish:**
-- Lemon Wedge
+**Garnish: **
+Lemon Wedge
 - 2.0 oz Lemon Syrup
 - 1.0 oz Firefly Vodka
 - Fill Soda Water
@@ -5989,9 +5989,9 @@ _[Kitiara Uth Matar]_
 **Glass:** Pounder
  /w light ice
 
-**Garnish:**
-- Lemon Wedge
-- Pepperoncini
+**Garnish: **
+Lemon Wedge, 
+and Pepperoncini
 - 1.0 oz Lime Juice
 - 2 shakes Dave's Insanity Sauce
 - 2.0 oz Bloody Mary Mix
@@ -6028,8 +6028,8 @@ _[GOT]_
 **Glass:** Bucket
  /w ice
 
-**Garnish:**
-- Cherry
+**Garnish: **
+Cherry
 - Dash Bitters
 - 0.5 oz Simple Syrup
 - 0.75 oz Crown Royal Black
@@ -6048,8 +6048,8 @@ _[Zelda]_
 
 **Glass:** Globe
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 
 **In shaker /w ice:**
 
@@ -6074,9 +6074,9 @@ _[One Of The Few Unchanged AFK Classics]_
 
 **Glass:** Globe
 
-**Garnish:**
-- Whipped Cream
-- Cherry
+**Garnish: **
+Whipped Cream, 
+and Cherry
 - 1 full ripe banana, sliced, blended Ripe Banana
 - 6 sliced strawberries, blended Strawberries
 - 4.0 oz blended Chocolate Ice Cream
@@ -6217,8 +6217,8 @@ _[Star Trekking Across The Universe]_
 **Glass:** Bucket
  /w light ice
 
-**Garnish:**
-- Orange Slice
+**Garnish: **
+Orange Slice
 - 1.5 oz Rye Whiskey
 - 1.0 oz Drambuie
 - Desired dashes Honey Bitters
@@ -6358,9 +6358,9 @@ _[Non-Alcoholic]_
 
 **Glass:** Rocks
 
-**Garnish:**
-- Cherry
-- Sugar Cube
+**Garnish: **
+Cherry, 
+and Sugar Cube
 - 1.0 oz House Whiskey
 - splash Sprite
 - 1 dash Bitters
@@ -6541,8 +6541,8 @@ _[Zelda]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Sugar Cube
+**Garnish: **
+Sugar Cube
 
 **In shaker /w ice:**
 
@@ -6566,9 +6566,9 @@ _[Star Dust]_
 
 **Glass:** Potion
 
-**Garnish:**
-- Whipped Cream
-- Cherry
+**Garnish: **
+Whipped Cream, 
+and Cherry
 - 1.0 oz Sour Apple Pucker
 - 1.0 oz House Vodka
 - Fill to neck Sprite
@@ -6583,8 +6583,8 @@ _[Fairy Night]_
 
 **Glass:** Shot
 
-**Garnish:**
-- Lime
+**Garnish: **
+Lime
 - 1.0 oz Captain Morgan Cannon Blast
 
 **Tags:**
@@ -6599,8 +6599,8 @@ _[Pirate Night]_
 
 **Glass:** Potion
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1.0 oz Frangelico
 - 1.0 oz Evan Williams Honey
 - 0.5 oz Tequila Rose
@@ -6619,8 +6619,8 @@ _[LOZ]_
 
 **Glass:** Potion
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1.5 oz Screwball Peanut Butter Whiskey
 - 1.0 oz Dansk Viking Blod
 - 1.0 oz Bols Strawberry
@@ -6638,8 +6638,8 @@ _[LOZ]_
 
 **Glass:** Potion
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1.5 oz Screwball Peanut Butter Whiskey
 - 1.0 oz Bols Strawberry
 - fill Half & Half
@@ -6657,8 +6657,8 @@ _[LOZ]_
 
 **Glass:** Potion
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1.0 oz Frangelico
 - 1.0 oz American Honey
 - 0.25 oz Tequila Rose
@@ -6676,8 +6676,8 @@ _[LOZ]_
 
 **Glass:** Potion
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1.0 oz Frangelico
 - 1.0 oz Dansk Viking Blod
 - 0.5 oz Tequila Rose
@@ -6789,8 +6789,8 @@ _[Sparkly]_
 
 **Glass:** Irish Coffee
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1.5 oz Stroh 80
 - 1.0 oz Irish Cream
 - 1 full packet Hot Chocolate
@@ -6810,8 +6810,8 @@ _[Power Word: Gun]_
 **Glass:** Globe
  /w ice
 
-**Garnish:**
-- 2 Cherries
+**Garnish: **
+2 Cherries
 
 **Before Ice:**
 
@@ -6838,8 +6838,8 @@ _[Pokemon]_
 **Glass:** Globe
  /w ice
 
-**Garnish:**
-- 2 Cherries
+**Garnish: **
+2 Cherries
 
 **Before Ice:**
 
@@ -7113,8 +7113,8 @@ _[WoW]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Woodford Reserve Bourbon Cherry
+**Garnish: **
+Woodford Reserve Bourbon Cherry
 
 **In shaker /w ice:**
 
@@ -7137,12 +7137,12 @@ _[Star Wars]_
 
 **Glass:** Mason Jar
 
-**Garnish:**
-- Lime Wedge
-- Green Olive
-- Pickled Jalapeno
-- Lemon
-- Celery Stick
+**Garnish: **
+Lime Wedge, 
+Green Olive, 
+Pickled Jalapeno, 
+Lemon, 
+and Celery Stick
 
 **Muddle in glass**
 
@@ -7380,9 +7380,9 @@ _[ATLA]_
 **Glass:** Globe
  /w light ice
 
-**Garnish:**
-- Gummy Worms
-- Cherry
+**Garnish: **
+Gummy Worms, 
+and Cherry
 - 0.5 oz Cherry Vodka
 - 0.5 oz Orange Vodka
 - 0.5 oz Bombay Sapphire
@@ -7403,8 +7403,8 @@ _[Samus]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Green Olive
+**Garnish: **
+Green Olive
 
 **In shaker /w ice:**
 
@@ -7428,8 +7428,8 @@ _[RPG]_
 
 **Glass:** Irish Coffee
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 0.5 oz Vanilla Vodka
 - 0.5 oz Hazelnut Liqueur
 - 0.5 oz Irish Cream
@@ -7589,8 +7589,8 @@ _[Dc Comics]_
 
 **Glass:** Rocks
 
-**Garnish:**
-- Woodford Reserve Bourbon Cherry
+**Garnish: **
+Woodford Reserve Bourbon Cherry
 - 1.5 oz Dead Guy Whiskey
 - 0.5 oz float Red Stag Black Cherry Bourbon
 
@@ -8077,8 +8077,8 @@ _[WoW]_
 **Glass:** Pitcher
  /w light ice
 
-**Garnish:**
-- Wheel of Lemon
+**Garnish: **
+Wheel of Lemon
 - 16.0 oz Mac & Jacks
 - Fill Lemonade
 
@@ -8211,8 +8211,8 @@ _[Kayla]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Lemon Wedge (Gold Brick)
+**Garnish: **
+Lemon Wedge (Gold Brick)
 - 1.0 oz Lemonade
 - 1.0 oz House Vodka
 - 1.0 oz House Silver Rum
@@ -8237,8 +8237,8 @@ _[Zaphod Beeblebrox]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Lemon Wedge (Gold Brick)
+**Garnish: **
+Lemon Wedge (Gold Brick)
 
 **Before Ice:**
 
@@ -8271,8 +8271,8 @@ _[Zaphod Beeblebrox]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Lemon Wedge (Gold Brick)
+**Garnish: **
+Lemon Wedge (Gold Brick)
 
 **Before Ice:**
 
@@ -8345,8 +8345,8 @@ _[Steven Universe]_
 
 **Glass:** Irish Coffee
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1 full packet Hot Chocolate
 - 1.5 oz Pecan Whiskey
 - Fill Hot Water
@@ -8423,8 +8423,8 @@ _[Purge #3]_
 **Glass:** Collins
  /w ice
 
-**Garnish:**
-- Too Many Lemons
+**Garnish: **
+Too Many Lemons
 - 0.5 oz Fresh Lemon Juice
 - 2.0 oz Cheap House Scotch
 - Fill Half Full (Or is it Half Empty?) Soda Water
@@ -8733,8 +8733,8 @@ _[Potions]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Orange Slice
+**Garnish: **
+Orange Slice
 - 1.5 oz Clementine Vodka
 - 0.5 oz X-Rated
 - 0.5 oz Grand Marnier
@@ -8894,8 +8894,8 @@ _[Dungeons And Dragons]_
 **Glass:** Rocks
  /w light ice
 
-**Garnish:**
-- Lemon Zest
+**Garnish: **
+Lemon Zest
 
 **Muddle in glass**
 
@@ -9219,8 +9219,8 @@ _[Dungeons And Dragons]_
 **Glass:** Collins
  /w ice
 
-**Garnish:**
-- Cherry
+**Garnish: **
+Cherry
 - 1.0 oz Random Vodka
 - Fill Cranberry Soda
 
@@ -9331,8 +9331,8 @@ _[Overwatch]_
 
 **Glass:** Bucket
 
-**Garnish:**
-- Sprinkles
+**Garnish: **
+Sprinkles
 - 2.0 oz House Whiskey
 - Fill Chilled Eggnog
 
@@ -9350,8 +9350,8 @@ _[Winchesters]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- A Picture of Ryan Reynolds
+**Garnish: **
+A Picture of Ryan Reynolds
 
 **In shaker /w ice:**
 
@@ -9476,8 +9476,8 @@ _[Addams Family]_
 
 **Glass:** Big Wine Glass
 
-**Garnish:**
-- Rock Candy
+**Garnish: **
+Rock Candy
 - 1.5 oz Horchata Vodka
 - 0.5 oz Cherry Vodka
 - 0.5 oz Simple Syrup
@@ -9611,10 +9611,10 @@ _[Fairy Night]_
 **Glass:** Mug
  /w light ice
 
-**Garnish:**
-- Lime Wedge
-- Pepperoncini
-- Celery Stick
+**Garnish: **
+Lime Wedge, 
+Pepperoncini, 
+and Celery Stick
 - 2.0 oz Bloody Mary Mix
 - 3.0 oz Skyfire Salsa
 - 2 shakes Dave's Insanity Sauce
@@ -9931,8 +9931,8 @@ _[ATLA]_
 **Glass:** Hurricane
  /w ice
 
-**Garnish:**
-- small white flower
+**Garnish: **
+small white flower
 - 1.0 oz Beekeepers Select Irish Honey
 - 2.0 oz  blackbery mead
 - splash Sweet & Sour
@@ -10004,8 +10004,8 @@ _[Pirate Night]_
 
 **Glass:** Pounder
 
-**Garnish:**
-- Lemon Wedge
+**Garnish: **
+Lemon Wedge
 
 **Before Ice:**
 
@@ -10155,8 +10155,8 @@ _[Serenity]_
 **Glass:** Hurricane
  /w ice
 
-**Garnish:**
-- Cherry
+**Garnish: **
+Cherry
 
 **Build like a Mai Tai:**
 
@@ -10535,8 +10535,8 @@ _[2012 Halloween Menu]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Jalapeno Slice
+**Garnish: **
+Jalapeno Slice
 
 **In shaker /w ice:**
 
@@ -11311,8 +11311,8 @@ _[Legend Of Zelda]_
 **Glass:** Small Wine Glass
  /w ice
 
-**Garnish:**
-- Lime Wedge
+**Garnish: **
+Lime Wedge
 - 1.0 oz House Vodka
 - 0.5 oz Blue Vanilla Simple Syrup
 - Splash Triple Sec
@@ -11569,8 +11569,8 @@ _[Fallout]_
 **Glass:** Goblet
  /w ice
 
-**Garnish:**
-- Lemon Wedge
+**Garnish: **
+Lemon Wedge
 - 0.3 oz Bacardi Dragonberry
 - 0.3 oz UV Blue
 - 0.3 oz Bombay Sapphire
@@ -11686,8 +11686,8 @@ _[Yolanda Haymer]_
 **Glass:** Pounder
  /w light ice
 
-**Garnish:**
-- Sour Rope
+**Garnish: **
+Sour Rope
 - 1.5 oz Peach Schnapps
 - 1.0 oz Dude Vodka
 - Splash Orange Juice
@@ -11873,8 +11873,8 @@ _[White Wolf]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Blue Food Coloring Swirl
+**Garnish: **
+Blue Food Coloring Swirl
 - 0.75 oz Coconut Rum
 - 0.75 oz Pineapple Rum
 - 0.5 oz Ultra White Monster
@@ -11985,8 +11985,8 @@ _[E&E Archives]_
 **Glass:** One Liter Mug
  /w ice
 
-**Garnish:**
-- Crispy Whiskey Bacon
+**Garnish: **
+Crispy Whiskey Bacon
 
 **Before Ice:**
 
@@ -12029,8 +12029,8 @@ _[2012 Halloween Menu]_
 **Glass:** Mug
  /w ice
 
-**Garnish:**
-- Large Marshmallow (Roasted)
+**Garnish: **
+Large Marshmallow (Roasted)
 - 4.0 oz Switchel
 - 2.0 oz House Spiced Rum
 - 2.0 oz Lapsang Souchong Tea
@@ -12212,8 +12212,8 @@ _[Fallout]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Grapefruit
+**Garnish: **
+Grapefruit
 
 **In shaker /w ice:**
 
@@ -12506,8 +12506,8 @@ _[Hot Drink]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Mint Sprig
+**Garnish: **
+Mint Sprig
 
 **In shaker /w ice:**
 
@@ -12740,8 +12740,8 @@ _[Doctor Who]_
 
 **Glass:** Pounder
 
-**Garnish:**
-- Whipped Cream (Optional)
+**Garnish: **
+Whipped Cream (Optional)
 - 2.0 oz blended House Silver Rum
 - 4.0 oz blended Finest Call Banana Puree
 - 1.0 oz blended Cream
@@ -12899,8 +12899,8 @@ _[The Fate Of Trending In A Bad Way]_
 
 **Glass:** Irish Coffee
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1 full packet Hot Chocolate
 - 1.5 oz Sailor Jerry Rum
 - splash Simple Syrup
@@ -12919,8 +12919,8 @@ _[Star Trek]_
 
 **Glass:** Irish Coffee
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1.5 oz Sailor Jerry Rum
 - 1.0 oz Coffee Liqueur
 - splash Mead
@@ -13135,8 +13135,8 @@ _[REN]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Lemon Wedge
+**Garnish: **
+Lemon Wedge
 - 0.5 oz St Germain Elderflower Liqueur
 - 1.0 oz Empress 1908 Gin
 - 2 dots Rhubarb Bitters
@@ -13181,8 +13181,8 @@ _[Doctor Who]_
 **Glass:** Collins
  /w ice
 
-**Garnish:**
-- Lime
+**Garnish: **
+Lime
 - 4-7 leaves, muddled Mint
 - 2-3 wedges, muddled Lime
 - 1.5 oz House Whiskey
@@ -13254,8 +13254,8 @@ _[E&E]_
 
 **Glass:** Bucket
 
-**Garnish:**
-- Thin Slice of Blood Orange
+**Garnish: **
+Thin Slice of Blood Orange
 
 **In shaker /w ice:**
 
@@ -13322,8 +13322,8 @@ _[Overwatch]_
 **Glass:** Rocks
  1 large cube
 
-**Garnish:**
-- Lemon Zest
+**Garnish: **
+Lemon Zest
 - 2.0 oz Makers Mark
 
 **Tags:**
@@ -13547,8 +13547,8 @@ _[Zombie Night]_
 
 **Glass:** Martini Shell
 
-**Garnish:**
-- Lemon
+**Garnish: **
+Lemon
 
 **In shaker /w ice:**
 
@@ -13573,8 +13573,8 @@ _[Adventure Time]_
 **Glass:** Bucket
  /w ice
 
-**Garnish:**
-- Orange Slice
+**Garnish: **
+Orange Slice
 - 1.0 oz Cherry Vodka
 - 1.0 oz Citron Vodka
 - 0.5 oz Triple Sec
@@ -13610,8 +13610,8 @@ _[Brekky]_
 **Glass:** Hurricane
  /w ice
 
-**Garnish:**
-- Whipped Cream
+**Garnish: **
+Whipped Cream
 - 1.25 oz Peach Schnapps
 - 1.25 oz Pinnacle Whipped Vodka
 - Fill Sprite
@@ -13694,8 +13694,8 @@ _[Dresden Files]_
 
 **Glass:** Shot
 
-**Garnish:**
-- Pickled Jalapeno
+**Garnish: **
+Pickled Jalapeno
 - 0.75 oz House Vodka
 - 0.25 oz Squirt Bloody Marry Mix
 
@@ -14079,8 +14079,8 @@ _[ATLA]_
 
 **Glass:** Mason Jar
 
-**Garnish:**
-- Mint Leaves
+**Garnish: **
+Mint Leaves
 - 7 leaves, Muddled Mint
 - 2 wedges, Muddled Lime
 - 2.5 oz House Rum
@@ -14215,8 +14215,8 @@ _[Shotguns]_
 **Glass:** Pounder
  /w ice
 
-**Garnish:**
-- Lime
+**Garnish: **
+Lime
 - 2.0 oz House Whiskey
 - 1.0 oz Lemonade
 - 4 dashes Angostura Bitters
@@ -14651,9 +14651,9 @@ _[Witch's House]_
 **Glass:** Hurricane
  /w ice
 
-**Garnish:**
-- Wheel of Lemon
-- Slice of Black Olive
+**Garnish: **
+Wheel of Lemon, 
+and Slice of Black Olive
 - 2.0 oz Citron Vodka
 - Fill Lemonade & Orange Juice
 
@@ -14785,8 +14785,8 @@ _[Stargate]_
 **Glass:** Two Shot Glasses
  /w ice
 
-**Garnish:**
-- Orange Slice
+**Garnish: **
+Orange Slice
 - 1.0 oz House Vodka
 
 **Build as Trash Can:**
