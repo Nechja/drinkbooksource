@@ -1,5 +1,3 @@
-## Root Drink: #Violence
-
 # #DREAD
 
 **Glass:** Pounder
@@ -59,8 +57,6 @@ _[Wow]_
 ---
 
 
-## Root Drink: 1000 Needles (2012 version)
-
 # 1000 NEEDLES (2016 VERSION)
 
 **Glass:** Pounder
@@ -80,8 +76,6 @@ _[Wow]_
 ---
 
 
-## Root Drink: 1000 Needles (2012 version)
-
 # 1000 NEEDLES (APOCALYPSE VERSION)
 
 **Glass:** Pounder
@@ -98,8 +92,6 @@ _[Wow]_
 
 ---
 
-
-## Root Drink: 1000 Needles (2012 version)
 
 # 1000 NEEDLES (NON-ALCOHOLIC)
 
@@ -653,8 +645,6 @@ _[Star Wars]_
 ---
 
 
-## Root Drink: Flutteryshy Mai Tai
-
 # APOCOSHY MAI TAI (ADJACENT VERSION)
 
 **Glass:** Mason Jar
@@ -749,8 +739,6 @@ _[Skyrim]_
 
 ---
 
-
-## Root Drink: Arrow to the Knee
 
 # ARROW TO THE KNEE DLC
 
@@ -1084,8 +1072,6 @@ _[Dungeons And Dragons]_
 ---
 
 
-## Root Drink: Battle of Serenity Valley
-
 # BATTLE OF SERENITY VALLEY V2
 
 **Glass:** Pounder
@@ -1135,8 +1121,6 @@ _[Non-Alcoholic]_
 
 ---
 
-
-## Root Drink: Azgalor
 
 # BATTLE RES
 
@@ -1538,8 +1522,6 @@ _[Tonight In Alpha Complex]_
 ---
 
 
-## Root Drink: Bouncy Bubbly Beverage
-
 # BOUNCY BUBBLY BEVERAGE UV EDITION
 
 **Glass:** Pounder
@@ -1860,8 +1842,6 @@ _[Robinson]_
 
 ---
 
-
-## Root Drink: Challenge Accepted (Tavern)
 
 # CHALLENGE ACCEPTED (E&E)
 
@@ -2301,8 +2281,6 @@ _[Overwatch]_
 ---
 
 
-## Root Drink: Dad of War
-
 # DAD OF APOCALYPSE
 
 **Glass:** Goblet
@@ -2331,8 +2309,6 @@ _[God Of War]_
 
 ---
 
-
-## Root Drink: Dad of War
 
 # DAD OF WAR (RYE ALTERNATIVE)
 
@@ -2400,8 +2376,6 @@ _[Totally Different]_
 
 ---
 
-
-## Root Drink: The Dark Knight
 
 # DARK KNIGHT RETURNS
 
@@ -2743,8 +2717,6 @@ _[Purge]_
 ---
 
 
-## Root Drink: Archimonde
-
 # DON'T STAND IN FIRE
 
 **Glass:** Shot
@@ -2790,8 +2762,6 @@ _[Spicy]_
 
 ---
 
-
-## Root Drink: Don't fear the reaper
 
 # DONT FEAR THE REAPER (THE MIX)
 
@@ -2886,8 +2856,6 @@ _[Mage Menu]_
 
 ---
 
-
-## Root Drink: Dragon Blood (2012)
 
 # DRAGON BLOOD (ALTERNATE)
 
@@ -3251,8 +3219,6 @@ _[2019]_
 
 ---
 
-
-## Root Drink: The final Hunt of my friend, my enemy
 
 # EXTRAS: BROWN SUGAR SIMPLE SYRUP
 
@@ -3746,8 +3712,6 @@ _[My Little Pony]_
 
 ---
 
-
-## Root Drink: Flutteryshy Mai Tai
 
 # FLUTTERYSHY MAI TAI (APOCALYPSE)
 
@@ -4723,8 +4687,6 @@ _[Mana Potion Now In Red]_
 
 ---
 
-
-## Root Drink: HP Potion #1
 
 # HP POTION #2
 
@@ -5786,8 +5748,6 @@ _[Inside Joke]_
 ---
 
 
-## Root Drink: #Violence
-
 # JADED DAWN
 
 **Glass:** Pounder
@@ -6022,8 +5982,6 @@ _[One Of The Few Unchanged AFK Classics]_
 
 ---
 
-
-## Root Drink: Kirby's Adventure
 
 # KIRBY'S ADVENTURE (NON-ALCOHOLIC)
 
@@ -6727,8 +6685,6 @@ _[Sparkly]_
 ---
 
 
-## Root Drink: Power Word: DEATH
-
 # MA DUECE
 
 **Glass:** Irish Coffee
@@ -6772,8 +6728,6 @@ _[Pokemon]_
 
 ---
 
-
-## Root Drink: Mai Pikachu
 
 # MAI PIKAPOCALYPSE
 
@@ -6848,8 +6802,6 @@ _[Addams Family]_
 ---
 
 
-## Root Drink: Mana Potion Alpha
-
 # MANA POTION (RELEASE VERSION)
 
 **Glass:** Irish Coffee Mug
@@ -6872,8 +6824,6 @@ _[More Versions Than You Have Socks In A Drawer]_
 
 ---
 
-
-## Root Drink: Mana Potion Alpha
 
 # MANA POTION (NON-ALCOHOLIC)
 
@@ -6919,8 +6869,6 @@ _[Og AFK Classics]_
 ---
 
 
-## Root Drink: Mana Potion Alpha
-
 # MANA POTION APOCALYPSE
 
 **Glass:** Potion Bottle
@@ -6939,8 +6887,6 @@ _[The End Of The Blue]_
 ---
 
 
-## Root Drink: Mana Potion Alpha
-
 # MANA POTION UV EDITION
 
 **Glass:** Potion Bottle
@@ -6958,8 +6904,6 @@ _[Fantasy]_
 
 ---
 
-
-## Root Drink: Mana Potion Alpha
 
 # MANA POTION V2
 
@@ -6983,8 +6927,6 @@ _[More Versions Than You Have Socks In A Drawer]_
 ---
 
 
-## Root Drink: Mana Potion Alpha
-
 # MANA POTION V3
 
 **Glass:** Potion Bottle
@@ -7006,8 +6948,6 @@ _[More Versions Than You Have Socks In A Drawer]_
 
 ---
 
-
-## Root Drink: Mana Potion Alpha
 
 # MANA POTION V4
 
@@ -7032,8 +6972,6 @@ _[Morsels To Tribble Ratios Honestly]_
 
 ---
 
-
-## Root Drink: Kaz'rogal
 
 # MANA POT
 
@@ -7209,8 +7147,6 @@ _[Overwatch]_
 
 ---
 
-
-## Root Drink: Mei's Endothermic Smash
 
 # MEI'S ENDOTHERMIC SMASH HOME VERSION
 
@@ -7816,8 +7752,6 @@ _[2012 Halloween Menu]_
 ---
 
 
-## Root Drink: We Should Have Shotguns For This
-
 # NEVERMIND
 
 **Glass:** Pounder
@@ -7917,8 +7851,6 @@ _[Such A Cool Name Rebranded Boringly]_
 
 ---
 
-
-## Root Drink: Obi-wan Kenobi Padawan version
 
 # OBI-WAN KENOBI JEDI MASTER
 
@@ -8138,8 +8070,6 @@ _[Kayla]_
 ---
 
 
-## Root Drink: Pan-Galactic Gargle Blaster
-
 # PAN-GALACTIC GARGLE APOCALYPSE BLASTER
 
 **Glass:** Pounder
@@ -8195,8 +8125,6 @@ _[Zaphod Beeblebrox]_
 
 ---
 
-
-## Root Drink: Pan-Galactic Gargle Blaster
 
 # PAN-GALACTIC GARGLE BLASTER V2
 
@@ -8413,8 +8341,6 @@ _[Tabletop]_
 ---
 
 
-## Root Drink: Poison Bottle
-
 # POISON BOTTLE APOCALYPSE
 
 **Glass:** Potion
@@ -8432,8 +8358,6 @@ _[Tabletop]_
 
 ---
 
-
-## Root Drink: Poison Bottle
 
 # POISON BOTTLE V2
 
@@ -9414,8 +9338,6 @@ _[Steven Universe]_
 ---
 
 
-## Root Drink: Mana Potion Alpha
-
 # ROUGE POTION #1
 
 **Glass:** Potion Bottle
@@ -9436,8 +9358,6 @@ _[Fantasy]_
 
 ---
 
-
-## Root Drink: Mana Potion Alpha
 
 # ROUGE POTION #2
 
@@ -9478,8 +9398,6 @@ _[Purge]_
 
 ---
 
-
-## Root Drink: Royal Ice Tea
 
 # ROYAL ICE TEA V2
 
@@ -9605,8 +9523,6 @@ _[Death Note]_
 ---
 
 
-## Root Drink: Ryuk the Shinigami
-
 # RYUK THE SHINIGAMI APOCALYPSE
 
 **Glass:** Bucket
@@ -9635,8 +9551,6 @@ _[Witch]_
 
 ---
 
-
-## Root Drink: Sweet Saffron
 
 # SAFFRON INFUSED CREAM
 
@@ -10033,8 +9947,6 @@ _[Serenity]_
 ---
 
 
-## Root Drink: Battle of Serenity Valley
-
 # SERENITY VALLEY HOLDOUT
 
 **Glass:** Pounder
@@ -10050,8 +9962,6 @@ _[Serenity]_
 
 ---
 
-
-## Root Drink: Battle of Serenity Valley
 
 # SERENITY VALLEY MEDIC
 
@@ -10153,8 +10063,6 @@ _[WoW]_
 
 ---
 
-
-## Root Drink: #Violence
 
 # SHARA
 
@@ -10510,8 +10418,6 @@ _[Star Wars]_
 ---
 
 
-## Root Drink: Smuggler's Choice
-
 # SMUGGLER'S CHOICE (AWAKENS FROM A NAP)
 
 **Glass:** Pounder
@@ -10527,8 +10433,6 @@ _[MOD]_
 
 ---
 
-
-## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE (BUT ITS A DARK ELF RANGER)
 
@@ -10550,8 +10454,6 @@ _[Mods]_
 ---
 
 
-## Root Drink: Smuggler's Choice
-
 # SMUGGLER'S CHOICE (DARTH JARJAR)
 
 **Glass:** Pounder
@@ -10568,8 +10470,6 @@ _[Star Wars]_
 
 ---
 
-
-## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE (HAN SHOT FIRST)
 
@@ -10588,8 +10488,6 @@ _[Star Wars]_
 ---
 
 
-## Root Drink: Smuggler's Choice
-
 # SMUGGLER'S CHOICE (NOOOOOOOOOOOOOOOO)
 
 **Glass:** Pounder
@@ -10607,8 +10505,6 @@ _[Star Wars]_
 ---
 
 
-## Root Drink: Smuggler's Choice
-
 # SMUGGLER'S CHOICE (PURE SABACC HAND)
 
 **Glass:** Bucket
@@ -10624,8 +10520,6 @@ _[Star Wars]_
 
 ---
 
-
-## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE (RAGNAROK)
 
@@ -10643,8 +10537,6 @@ _[Star Wars]_
 ---
 
 
-## Root Drink: Smuggler's Choice
-
 # SMUGGLER'S CHOICE V1 REMASTERED
 
 **Glass:** Pounder
@@ -10660,8 +10552,6 @@ _[Star Wars]_
 
 ---
 
-
-## Root Drink: Smuggler's Choice
 
 # SMUGGLER'S CHOICE V2 REMASTERED AGAIN
 
@@ -10815,8 +10705,6 @@ _[WAR]_
 ---
 
 
-## Root Drink: Sonic Screwdriver 10th Doctor
-
 # SONIC SCREWDRIVER 10TH DOCTOR 2016
 
 **Glass:** Pounder
@@ -10840,8 +10728,6 @@ _[WAR]_
 
 ---
 
-
-## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER 10TH DOCTOR APOCALYPSE
 
@@ -10867,8 +10753,6 @@ _[WAR]_
 ---
 
 
-## Root Drink: Sonic Screwdriver 10th Doctor
-
 # SONIC SCREWDRIVER 11TH DOCTOR
 
 **Glass:** Pounder
@@ -10891,8 +10775,6 @@ _[WAR]_
 
 ---
 
-
-## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER 13TH DOCTOR
 
@@ -10918,8 +10800,6 @@ _[WAR]_
 ---
 
 
-## Root Drink: Sonic Screwdriver 10th Doctor
-
 # SONIC SCREWDRIVER 4TH DOCTOR
 
 **Glass:** Pounder
@@ -10942,8 +10822,6 @@ _[WAR]_
 
 ---
 
-
-## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER 9TH DOCTOR
 
@@ -10969,8 +10847,6 @@ _[WAR]_
 ---
 
 
-## Root Drink: Sonic Screwdriver 10th Doctor
-
 # SONIC SCREWDRIVER RIVER SONG
 
 **Glass:** Pounder
@@ -10995,8 +10871,6 @@ _[WAR]_
 ---
 
 
-## Root Drink: Sonic Screwdriver 10th Doctor
-
 # SONIC SCREWDRIVER TIME WAR
 
 **Glass:** Pounder
@@ -11020,8 +10894,6 @@ _[WAR]_
 
 ---
 
-
-## Root Drink: Sonic Screwdriver 10th Doctor
 
 # SONIC SCREWDRIVER WAR DOCTOR
 
@@ -11348,8 +11220,6 @@ _[Twilight]_
 ---
 
 
-## Root Drink: Still a Better Love Story Than Twilight
-
 # STILL A BETTER LOVE STORY THAN TWILIGHT APOCALYPSE
 
 **Glass:** Large Wine Glass
@@ -11372,8 +11242,6 @@ _[Twilight]_
 
 ---
 
-
-## Root Drink: Still a Better Love Story Than Twilight
 
 # STILL A BETTER LOVE STORY THAN TWILIGHT V2015
 
@@ -11402,8 +11270,6 @@ _[Twilight]_
 ---
 
 
-## Root Drink: Still a Better Love Story Than Twilight
-
 # STILL A BETTER LOVE STORY THAN TWILIGHT V2017
 
 **Glass:** Martini Shell
@@ -11429,8 +11295,6 @@ _[Twilight]_
 
 ---
 
-
-## Root Drink: Still a Better Love Story Than Twilight
 
 # STILL A BETTER LOVE STORY THAN TWILIGHT V2019
 
@@ -11539,8 +11403,6 @@ _[WoW]_
 ---
 
 
-## Root Drink: Anetheron
-
 # SULFURON SLAMMER
 
 **Glass:** Shot
@@ -11571,8 +11433,6 @@ _[Serenity]_
 
 ---
 
-
-## Root Drink: Sweet Saffron
 
 # SWEET SAFFRON (LOST VERSION)
 
@@ -11832,8 +11692,6 @@ _[Alpha Menu]_
 ---
 
 
-## Root Drink: The Onyxia
-
 # THE ALEXSTRASZA
 
 **Glass:** Large Wine Glass
@@ -12011,8 +11869,6 @@ _[Dungeons & Dragons]_
 ---
 
 
-## Root Drink: The Onyxia
-
 # THE CHROMIE
 
 **Glass:** Hurricane
@@ -12149,8 +12005,6 @@ _[The Final Days]_
 ---
 
 
-## Root Drink: Ice Orb Sorceress
-
 # THE FROST MAGE
 
 **Glass:** Hurricane
@@ -12168,8 +12022,6 @@ _[WoW]_
 
 ---
 
-
-## Root Drink: Ice Orb Sorceress
 
 # THE FROST MAGE (NON-ALCOHOLIC)
 
@@ -12526,8 +12378,6 @@ _[The Legends]_
 ---
 
 
-## Root Drink: The Onyxia
-
 # THE MALYGOS
 
 **Glass:** Large Wine Glass
@@ -12608,8 +12458,6 @@ _[Doctor Who]_
 
 ---
 
-
-## Root Drink: The Onyxia
 
 # THE NEFARIAN
 
@@ -12706,8 +12554,6 @@ _[WoW]_
 ---
 
 
-## Root Drink: The Onyxia
-
 # THE ONYXIA 2016
 
 **Glass:** Large Wine Glass
@@ -12727,8 +12573,6 @@ _[WoW]_
 
 ---
 
-
-## Root Drink: The Onyxia
 
 # THE ONYXIA APOCALYPSE
 
@@ -12929,8 +12773,6 @@ _[Serenity]_
 ---
 
 
-## Root Drink: The Onyxia
-
 # THE SINESTRA
 
 **Glass:** Large Wine Glass
@@ -12950,8 +12792,6 @@ _[WoW]_
 
 ---
 
-
-## Root Drink: The Onyxia
 
 # THE SINESTRA APOCALYPSE
 
@@ -13012,8 +12852,6 @@ _[REN]_
 
 ---
 
-
-## Root Drink: The Telophoroi’s Scheming
 
 # THE TELOPHOROI’S SCHEMING (PITCHER VERSION)
 
@@ -13098,8 +12936,6 @@ _[Summer]_
 
 ---
 
-
-## Root Drink: The Onyxia
 
 # THE YSERA
 
@@ -13524,8 +13360,6 @@ _[ATLA]_
 
 ---
 
-
-## Root Drink: Rage Winterchill
 
 # USE YOUR TRINKET
 
@@ -14720,8 +14554,6 @@ _[Zombie Night]_
 ---
 
 
-## Root Drink: [Thunderfury, Blessed Blade of the Windseeker]
-
 # [CORRUPTED ASHBRINGER]
 
 **Glass:** Pounder
@@ -14748,8 +14580,6 @@ _[WoW]_
 
 ---
 
-
-## Root Drink: [Thunderfury, Blessed Blade of the Windseeker]
 
 # [SHADOWMOURN]
 

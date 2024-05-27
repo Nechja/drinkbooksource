@@ -1,3 +1,5 @@
 Scripts/DrinkBuilder.py
 Scripts/DrinkModels-ignore.py
 Scripts/FoodModels-ignore.py
+Scripts/XMLGen.py
+output.xml
