@@ -10,9 +10,11 @@ import string
 class DrinkFormatter:
     def __init__(self):
         self.styles = getSampleStyleSheet()
-        self.title_style = ParagraphStyle(name='Title', parent=self.styles['Heading1'], fontSize=8, leading=10)
+        self.title_style = ParagraphStyle(name='Title', parent=self.styles['Heading2'], fontSize=8, leading=10)
         self.subtitle_style = ParagraphStyle(name='Subtitle', parent=self.styles['Normal'], fontSize=6, leading=7)
         self.normal_style = ParagraphStyle(name='Normal', parent=self.styles['Normal'], fontSize=5, leading=10)
+        self.letter_style = ParagraphStyle(name='Letter', parent=self.styles['Heading1'], fontSize=14, leading=10)
+
 
     def format_instructions(self, instructions):
         formatted_instructions = []
@@ -116,7 +118,7 @@ class PDFDocumentBuilder:
 
     def add_letter_group(self, letter, content):
         content.append(PageBreak())
-        header = Paragraph(f"<b>{letter}</b>", self.formatter.title_style)
+        header = Paragraph(f"<b>{letter}</b>", self.formatter.letter_style)
         content.append(header)
         content.append(HRFlowable(width="30%", thickness=.5, color="black", spaceBefore=1, spaceAfter=1, hAlign="LEFT"))
         content.append(HRFlowable(width="30%", thickness=.5, color="black", spaceBefore=1, spaceAfter=1, hAlign="LEFT"))
