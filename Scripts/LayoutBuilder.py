@@ -21,9 +21,12 @@ class DrinkFormatter:
             if method != 'noflag':
                 formatted_instructions.append(f"<b>{method}</b>:")
             for step in steps:
-                instruction = f"{step['Oz']} oz {step['Name']} ({step['Type']})"
+                instruction = ""
+                if 'Oz' in step and step['Oz']:
+                    instruction += f"{step['Oz']} oz "
                 if step['Special']:
-                    instruction += f" - {step['Special']}"
+                    instruction += f"{step['Special']} "
+                instruction += f"{step['Name']}"
                 formatted_instructions.append(instruction)
             formatted_instructions.append("")
         return formatted_instructions
