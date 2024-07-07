@@ -1,4 +1,4 @@
-name: Make PDF booklet of Drinks
+name: Drink PDF
 on:
   push:
     branches:
