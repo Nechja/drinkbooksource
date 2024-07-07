@@ -5,6 +5,7 @@ from reportlab.platypus import (Paragraph, Spacer, Frame, PageTemplate,
                                 BaseDocTemplate, KeepTogether, HRFlowable, PageBreak)
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
+import string
 
 class DrinkFormatter:
     def __init__(self):
@@ -61,14 +62,11 @@ class DrinkFormatter:
 
         return KeepTogether(drink_content)
 
-class PDFDocumentBuilder:
-    def __init__(self, filepath):
-        self.filepath = filepath
-        self.doc = BaseDocTemplate("drink_booklet.pdf", pagesize=portrait((5.5 * inch, 8.5 * inch)))
-        self.formatter = DrinkFormatter()
-        self.create_document_structure()
+class DocumentTemplate:
+    def __init__(self, doc):
+        self.doc = doc
 
-    def create_document_structure(self):
+    def create_two_column_template(self):
         frame_margin = 0.01 * inch 
         column_gap = 0.05 * inch 
         frame_width = (self.doc.width - frame_margin * 2 - column_gap) / 2  
@@ -84,29 +82,45 @@ class PDFDocumentBuilder:
         canvas.drawCentredString(4.25 * inch, 0.5 * inch, page_number_text)
         canvas.restoreState()
 
-    def load_drinks(self):
-        with open(self.filepath, 'r', encoding='utf-8') as file:
+class DrinkDataLoader:
+    @staticmethod
+    def load_drinks(filepath):
+        with open(filepath, 'r', encoding='utf-8') as file:
             drinks = json.load(file)
         return sorted(drinks, key=lambda d: d['Name'].upper())
+
+class PDFDocumentBuilder:
+    def __init__(self, filepath):
+        self.filepath = filepath
+        self.doc = BaseDocTemplate("drink_booklet.pdf", pagesize=portrait((5.5 * inch, 8.5 * inch)))
+        self.formatter = DrinkFormatter()
+        self.current_letter_group = ''
+        self.document_template = DocumentTemplate(self.doc)
+        self.document_template.create_two_column_template()
+
+    def build_document(self):
+        content = []
+        drinks = DrinkDataLoader.load_drinks(self.filepath)
+        current_letter = ''
+        for drink in drinks:
+            first_letter = drink['Name'][0].upper()
+            if not first_letter.isalpha():
+                first_letter = '#'
+            if first_letter != current_letter:
+                current_letter = first_letter
+                self.add_letter_group(current_letter, content)
+            self.current_letter_group = first_letter
+            drink_details = self.formatter.format_drink_details(drink)
+            content.append(drink_details)
+        self.doc.build(content)
 
     def add_letter_group(self, letter, content):
         content.append(PageBreak())
         header = Paragraph(f"<b>{letter}</b>", self.formatter.title_style)
         content.append(header)
+        content.append(HRFlowable(width="30%", thickness=.5, color="black", spaceBefore=1, spaceAfter=1, hAlign="LEFT"))
+        content.append(HRFlowable(width="30%", thickness=.5, color="black", spaceBefore=1, spaceAfter=1, hAlign="LEFT"))
         content.append(Spacer(1, 12))
-
-    def build_document(self):
-        content = []
-        drinks = self.load_drinks()
-        current_letter = ''
-        for drink in drinks:
-            first_letter = drink['Name'][0].upper()
-            if first_letter != current_letter:
-                current_letter = first_letter
-                self.add_letter_group(current_letter, content)
-            drink_details = self.formatter.format_drink_details(drink)
-            content.append(drink_details)
-        self.doc.build(content)
 
 if __name__ == "__main__":
     pdf_builder = PDFDocumentBuilder(os.path.abspath(os.path.join('Drinks', 'source.json')))
