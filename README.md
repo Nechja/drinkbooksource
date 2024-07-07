@@ -5,7 +5,7 @@
 # AFK Tavern Archives
 ### aka drink book source
 
-Welcome to the GitHub repository of the once-beloved AFK Tavern. This archive holds a curated collection of our old drink list in JSON format (Food coming soon). The repository serves as a source of truth for the tavern's offerings and is intended for use by fans and friends interested in historical data or building projects related to the AFK Tavern.
+Welcome to the GitHub repository of the once-beloved AFK Tavern. This archive holds a curated collection of our old drink list in JSON format. The repository serves as a source of truth for the tavern's offerings and is intended for use by fans and friends interested in historical data or building projects related to the AFK Tavern.
 
 ## Looking for a website?
 
