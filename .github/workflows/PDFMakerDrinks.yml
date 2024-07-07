@@ -1,0 +1,47 @@
+name: Make PDF booklet of Drinks
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11' 
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Schema Validator and Check Output
+      id: validate
+      run: |
+        output=$(python Scripts/LayoutBuilder.py)
+        echo "::set-output name=result::$output"
+        if [[ "$output" == *"Success: Document created."* ]]; then
+          echo "Document Created Successfully!"
+        else
+          echo "Document Creation Failed!"
+          echo "$output"
+          exit 1
+        fi
+
+    - name: Post-validation Success Message
+      if: success()
+      run: echo "Document created successfully! Continuing with the workflow."
+
+    - name: Post-validation Failure Message
+      if: failure()
+      run: echo "Document creation failed! Check the details above for errors."
