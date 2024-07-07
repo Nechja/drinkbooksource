@@ -142,5 +142,10 @@ class PDFDocumentBuilder:
         content.append(Spacer(1, 12))
 
 if __name__ == "__main__":
-    pdf_builder = PDFDocumentBuilder(os.path.abspath(os.path.join('Drinks', 'source.json')), page_width=6 * inch, page_height=9 * inch)
-    pdf_builder.build_document()
+    try:
+        pdf_builder = PDFDocumentBuilder(os.path.abspath(os.path.join('Drinks', 'source.json')), page_width=6 * inch, page_height=9 * inch)
+        pdf_builder.build_document()
+        print("Success: Document created.")
+    except Exception as e:
+        print(f"Failure: {e}")
+    
