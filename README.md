@@ -9,7 +9,7 @@ Welcome to the GitHub repository of the once-beloved AFK Tavern. This archive ho
 
 ## Looking for a website?
 
-Right now all of this is deployed on an Azure Static app but it will make it to it's own domain when it's more polished. You can find that [here](afktavern.com).
+You can find all this in a mostly human readable web app. At [afktavern.com](afktavern.com) the ye olde' website.
 
 ## Usage
 
