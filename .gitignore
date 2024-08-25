@@ -3,3 +3,4 @@ Scripts/DrinkModels-ignore.py
 Scripts/FoodModels-ignore.py
 Scripts/XMLGen.py
 output.xml
+Scripts/IndexBuilder.py
