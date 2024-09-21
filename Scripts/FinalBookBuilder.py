@@ -1,6 +1,6 @@
 import os
 import json
-from PyPDF2 import PdfMerger
+from PyPDF2 import PdfMerger, PdfReader
 from PIL import Image
 from fpdf import FPDF
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Frame, PageTemplate
@@ -53,8 +53,6 @@ class PDFBookBuilder:
         doc.build(content)
         return md_pdf_output
 
-
-
     def patrons_to_pdf(self):
         with open(self.patrons_json, 'r') as file:
             patrons = json.load(file)
@@ -81,27 +79,53 @@ class PDFBookBuilder:
         doc.build(content)
         return patrons_pdf_output
 
+    def add_blank_page(self, pdf_merger):
+        blank_pdf = FPDF(unit="pt", format=(self.page_width, self.page_height))
+        blank_pdf.add_page()
+        blank_output = "blank_page.pdf"
+        blank_pdf.output(blank_output)
+        pdf_merger.append(blank_output)
 
-
-
-    def merge_pdfs(self):
+    def merge_pdfs(self, include_cover=True, output_file=None):
         merger = PdfMerger()
-        cover_pdf = self.image_to_pdf(self.cover_image)
-        back_pdf = self.image_to_pdf(self.back_image)
+        if include_cover:
+            cover_pdf = self.image_to_pdf(self.cover_image)
+            merger.append(cover_pdf)
+            back_pdf = self.image_to_pdf(self.back_image)
+        
+        
         forward = self.md_to_pdf()
         patrons_pdf = self.patrons_to_pdf()
-        
-        merger.append(cover_pdf)
-        merger.append(forward)         
+
+        merger.append(forward)
         merger.append(self.booklet_pdf)
         merger.append(self.index_pdf)
-        merger.append(patrons_pdf)  
-        merger.append(back_pdf)
+        merger.append(patrons_pdf)
 
-        with open(self.output_file, "wb") as output:
+        total_pages = 0
+        for pdf in [cover_pdf if include_cover else None, forward, self.booklet_pdf, self.index_pdf, patrons_pdf]:
+            if pdf:
+                reader = PdfReader(pdf)
+                print(f"Adding {len(reader.pages)} pages from {pdf}")
+                total_pages += len(reader.pages)
+        if include_cover is False:
+            total_pages += 2
+        remainder = (total_pages + 1) % 4
+        print(f"Total pages: {total_pages}, Remainder: {remainder}")
+        pages_to_add = (4 - remainder) if remainder != 0 else 0
+        print(f"Adding {pages_to_add} blank pages to make total pages a multiple of 4")
+
+        for _ in range(pages_to_add):
+            print("Adding blank page")
+            self.add_blank_page(merger)
+            total_pages += 1
+        
+        if include_cover:
+            merger.append(back_pdf)
+
+        with open(output_file if output_file else self.output_file, "wb") as output:
             merger.write(output)
-        print(f"Success: Final book saved as {self.output_file}")
-
+        print(f"Success: Final book saved as {output_file if output_file else self.output_file}")
 
 if __name__ == "__main__":
     try:
@@ -111,10 +135,13 @@ if __name__ == "__main__":
         booklet_pdf = 'drink_booklet.pdf'
         index_pdf = 'drink_index.pdf'
         patrons_json = 'thankyou/patreons.json'
-        output_file = 'full_drink_book.pdf'
+        output_file_with_cover = 'full_drink_book_with_cover.pdf'
+        output_file_without_cover = 'full_drink_book_no_cover.pdf'
         
-        builder = PDFBookBuilder(cover_image, back_image, booklet_pdf, index_pdf, md_file, patrons_json, output_file)
-        builder.merge_pdfs()
+        builder = PDFBookBuilder(cover_image, back_image, booklet_pdf, index_pdf, md_file, patrons_json, output_file_with_cover)
+        builder.merge_pdfs(include_cover=True, output_file=output_file_with_cover)
+        builder.merge_pdfs(include_cover=False, output_file=output_file_without_cover)
 
     except Exception as e:
         print(f"Failure: {e}")
+
