@@ -27,14 +27,7 @@ class PDFIndexBuilder:
         frame1 = Frame(self.doc.leftMargin + frame_margin, self.doc.bottomMargin, frame_width, self.doc.height, id='col1')
         frame2 = Frame(self.doc.leftMargin + frame_margin + frame_width + column_gap, self.doc.bottomMargin, frame_width, self.doc.height, id='col2')
         
-        self.doc.addPageTemplates([PageTemplate(id='TwoCol', frames=[frame1, frame2], onPage=self.add_page_number)])
-
-    def add_page_number(self, canvas, doc):
-        canvas.saveState()
-        page_number_text = f"Page {doc.page}"
-        canvas.setFont('Helvetica', 6)
-        canvas.drawCentredString(self.page_width / 2, 0.3 * inch, page_number_text)
-        canvas.restoreState()
+        self.doc.addPageTemplates([PageTemplate(id='TwoCol', frames=[frame1, frame2])])
 
     def build_index(self):
         content = []
