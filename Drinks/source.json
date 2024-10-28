@@ -1130,7 +1130,7 @@
                     "Oz": 0.33,
                     "Special": null,
                     "Name": "Cinnamon Fire-Themed Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 0.33,
@@ -2666,7 +2666,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ]
         },
@@ -3465,7 +3465,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ],
             "In pounder": [
@@ -4247,7 +4247,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ],
             "noflag": [
@@ -4308,7 +4308,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ],
             "noflag": [
@@ -4658,7 +4658,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -4718,7 +4718,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Japanese Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -5549,7 +5549,7 @@
                     "Oz": 0.75,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -7864,6 +7864,11 @@
                 "Color": "Info"
             },
             {
+                "Value": "House Aspects",
+                "Type": "Series Drink",
+                "Color": "Warning"
+            },
+            {
                 "Value": "Non-Alcoholic",
                 "Type": "Serving Info",
                 "Color": "Success"
@@ -7914,6 +7919,11 @@
                 "Color": "Info"
             },
             {
+                "Value": "House Aspects",
+                "Type": "Series Drink",
+                "Color": "Warning"
+            },
+            {
                 "Value": "Non-Alcoholic",
                 "Type": "Serving Info",
                 "Color": "Success"
@@ -7962,6 +7972,11 @@
                 "Value": "Wizarding",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "House Aspects",
+                "Type": "Series Drink",
+                "Color": "Warning"
             }
         ],
         "Instructions": {
@@ -8013,6 +8028,11 @@
                 "Value": "Wizarding",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "House Aspects",
+                "Type": "Series Drink",
+                "Color": "Warning"
             }
         ],
         "Instructions": {
@@ -8058,6 +8078,11 @@
                 "Value": "Wizarding",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "House Aspects",
+                "Type": "Series Drink",
+                "Color": "Warning"
             }
         ],
         "Instructions": {
@@ -8066,7 +8091,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -8115,6 +8140,11 @@
                 "Value": "Wizarding",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "House Aspects",
+                "Type": "Series Drink",
+                "Color": "Warning"
             }
         ],
         "Instructions": {
@@ -8166,6 +8196,11 @@
                 "Value": "Wizarding",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "House Aspects",
+                "Type": "Series Drink",
+                "Color": "Warning"
             },
             {
                 "Value": "Non-Alcoholic",
@@ -8223,6 +8258,11 @@
                 "Color": "Info"
             },
             {
+                "Value": "House Aspects",
+                "Type": "Series Drink",
+                "Color": "Warning"
+            },
+            {
                 "Value": "Non-Alcoholic",
                 "Type": "Serving Info",
                 "Color": "Success"
@@ -8271,6 +8311,11 @@
                 "Value": "Wizarding",
                 "Type": " IP",
                 "Color": "Info"
+            },
+            {
+                "Value": "House Aspects",
+                "Type": "Series Drink",
+                "Color": "Warning"
             },
             {
                 "Value": "Non-Alcoholic",
@@ -8487,7 +8532,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Revel Stokes Root Beer Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -9604,7 +9649,7 @@
                     "Oz": 0.75,
                     "Special": null,
                     "Name": "Crown Royal Black",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -9933,7 +9978,7 @@
                     "Oz": 1.0,
                     "Special": "",
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ],
             "noflag": [
@@ -11850,7 +11895,7 @@
         ]
     },
     {
-        "Name": "Mudder's Milk E&E V1.0",
+        "Name": "Mudder's Milk E&E",
         "Id": 201,
         "Verification": false,
         "Garnish": [],
@@ -12385,7 +12430,7 @@
             },
             {
                 "Value": "Raid Shots",
-                "Type": "Historical",
+                "Type": "Series Drink",
                 "Color": "Warning"
             },
             {
@@ -12443,7 +12488,7 @@
             },
             {
                 "Value": "Raid Shots",
-                "Type": "Historical",
+                "Type": "Series Drink",
                 "Color": "Warning"
             },
             {
@@ -12507,7 +12552,7 @@
             },
             {
                 "Value": "Raid Shots",
-                "Type": "Historical",
+                "Type": "Series Drink",
                 "Color": "Warning"
             },
             {
@@ -12565,7 +12610,7 @@
             },
             {
                 "Value": "Raid Shots",
-                "Type": "Historical",
+                "Type": "Series Drink",
                 "Color": "Warning"
             },
             {
@@ -12623,7 +12668,7 @@
             },
             {
                 "Value": "Raid Shots",
-                "Type": "Historical",
+                "Type": "Series Drink",
                 "Color": "Warning"
             },
             {
@@ -13028,7 +13073,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -15386,7 +15431,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -15530,7 +15575,7 @@
                     "Oz": null,
                     "Special": "splash",
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ]
         },
@@ -16985,7 +17030,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Mid/Lower-Mid Shelf Japanese Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -17215,7 +17260,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ]
         },
@@ -20533,7 +20578,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ]
         },
@@ -21092,7 +21137,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -21351,7 +21396,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 2.0,
@@ -21615,7 +21660,7 @@
                     "Oz": 2.0,
                     "Special": null,
                     "Name": "Canadian Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 0.5,
@@ -21969,7 +22014,7 @@
         ]
     },
     {
-        "Name": "Why So Serious\u2754",
+        "Name": "Why So Serious?",
         "Id": 372,
         "Verification": true,
         "Garnish": [],
@@ -22478,7 +22523,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -22948,7 +22993,7 @@
             },
             {
                 "Value": "Assassin's Creed",
-                "Type": "Series Drink",
+                "Type": " IP",
                 "Color": "Warning"
             },
             {
@@ -23006,7 +23051,7 @@
         ]
     },
     {
-        "Name": "sacred heart appletini",
+        "Name": "Sacred Heart Appletini",
         "Id": 389,
         "Verification": false,
         "Garnish": [],
@@ -25245,7 +25290,7 @@
         ]
     },
     {
-        "Name": "Challenge Accepted (E&E)",
+        "Name": "Challenge Accepted E&E",
         "Id": 422,
         "Verification": false,
         "Garnish": [],
@@ -25283,7 +25328,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 0.5,
@@ -25379,7 +25424,7 @@
                     "Oz": 0.5,
                     "Special": "Float",
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ]
         },
@@ -25901,7 +25946,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -26033,7 +26078,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -29665,7 +29710,7 @@
                     "Oz": 2.0,
                     "Special": null,
                     "Name": "Canadian Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 0.5,
@@ -30903,7 +30948,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ],
             "noflag": [
@@ -31456,7 +31501,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -32197,7 +32242,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Root Beer Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ]
         },
@@ -33130,7 +33175,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 4.0,
@@ -33372,7 +33417,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -33999,7 +34044,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -37627,7 +37672,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 0.5,
@@ -37840,7 +37885,7 @@
                     "Oz": null,
                     "Special": "Float",
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -38701,7 +38746,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -39128,7 +39173,7 @@
         "Tags": [
             {
                 "Value": "ATLA",
-                "Type": "Series Drink",
+                "Type": "Info",
                 "Color": "Warning"
             },
             {
@@ -39153,7 +39198,7 @@
                     "Oz": 0.75,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 0.5,
@@ -39450,7 +39495,7 @@
                     "Oz": 2.0,
                     "Special": null,
                     "Name": "Jack Rye",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 2.0,
@@ -39856,7 +39901,7 @@
                     "Oz": 2.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -40139,7 +40184,7 @@
         "Tags": [
             {
                 "Value": "ATLA",
-                "Type": "Series Drink",
+                "Type": " Info",
                 "Color": "Warning"
             },
             {
@@ -40160,7 +40205,7 @@
                     "Oz": 1.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ],
             "Glass Two": [
@@ -40291,7 +40336,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -40437,7 +40482,7 @@
                     "Oz": 1.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -41544,7 +41589,7 @@
                     "Oz": 1.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -43418,7 +43463,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Revel Stokes Root Beer Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ],
             "In pounder": [
@@ -43620,7 +43665,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Cinnamon Fire-Themed Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -43925,7 +43970,7 @@
                     "Oz": 0.75,
                     "Special": null,
                     "Name": "Revel Stokes Root Beer Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 0.5,
@@ -44003,7 +44048,7 @@
         "Tags": [
             {
                 "Value": "ATLA",
-                "Type": "Series Drink",
+                "Type": "Info",
                 "Color": "Warning"
             },
             {
@@ -44330,7 +44375,7 @@
                     "Oz": 0.75,
                     "Special": null,
                     "Name": "Cinnamon Fire-Themed Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 0.75,
@@ -44373,7 +44418,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Revel Stokes Root Beer Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 0.5,
@@ -44932,7 +44977,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -46479,7 +46524,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -47330,7 +47375,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -47380,7 +47425,7 @@
                     "Oz": 2.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -47430,7 +47475,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 0.5,
@@ -47719,7 +47764,7 @@
                     "Oz": 0.5,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 }
             ]
         },
@@ -47954,7 +47999,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Cinnamon Fire-Themed Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -48546,7 +48591,7 @@
                     "Oz": 1.5,
                     "Special": null,
                     "Name": "Jack Rye",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -48750,7 +48795,7 @@
                     "Oz": 1.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": 1.0,
@@ -48947,6 +48992,11 @@
             },
             {
                 "Value": "Stormlight Archives",
+                "Type": " IP",
+                "Color": "Info"
+            },
+            {
+                "Value": "Cosmere",
                 "Type": " IP",
                 "Color": "Info"
             }
@@ -49166,7 +49216,7 @@
                     "Oz": 2.0,
                     "Special": null,
                     "Name": "Monsho Pure Malt Japanese Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
@@ -49799,7 +49849,7 @@
                     "Oz": 2.0,
                     "Special": null,
                     "Name": "Fireball Cinnamon Whisky",
-                    "Type": "Whisky"
+                    "Type": "Whiskey"
                 },
                 {
                     "Oz": null,
