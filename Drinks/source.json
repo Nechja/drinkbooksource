@@ -139,7 +139,13 @@
                 {
                     "Oz": null,
                     "Special": "Fill",
-                    "Name": "Cranberry Juice And Lemonade",
+                    "Name": "Cranberry Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Lemonade",
                     "Type": "Mixer"
                 }
             ]
@@ -259,8 +265,20 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "Fill equal parts",
-                    "Name": "Pineapple Juice, Orange Juice, And Sprite",
+                    "Special": "Fill",
+                    "Name": "Pineapple Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Orange Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Sprite",
                     "Type": "Mixer"
                 }
             ]
@@ -2332,7 +2350,13 @@
                 {
                     "Oz": null,
                     "Special": "Fill",
-                    "Name": "Cranberry Juice And Pineapple Juice",
+                    "Name": "Cranberry Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Pineapple Juice",
                     "Type": "Mixer"
                 }
             ]
@@ -10751,7 +10775,19 @@
                 {
                     "Oz": null,
                     "Special": "Fill",
-                    "Name": "Sweet & Sour, Orange Juice And Lemonade",
+                    "Name": "Sweet & Sour",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Orange Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Lemonade",
                     "Type": "Mixer"
                 },
                 {
@@ -14394,7 +14430,19 @@
                 {
                     "Oz": null,
                     "Special": "Fill",
-                    "Name": "Pineapple Juice, Orange Juice, And Sweet & Sour",
+                    "Name": "Pineapple Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Orange Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Sweet & Sour",
                     "Type": "Mixer"
                 },
                 {
@@ -23464,7 +23512,13 @@
                 {
                     "Oz": null,
                     "Special": "Fill",
-                    "Name": "Cranberry Juice And Sprite",
+                    "Name": "Cranberry Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Sprite",
                     "Type": "Mixer"
                 }
             ]
@@ -23534,7 +23588,13 @@
                 {
                     "Oz": null,
                     "Special": "Fill",
-                    "Name": "Pineapple Juice And Orange Juice",
+                    "Name": "Pineapple Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Orange Juice",
                     "Type": "Mixer"
                 },
                 {
@@ -23604,7 +23664,13 @@
                 {
                     "Oz": null,
                     "Special": "Fill",
-                    "Name": "Orange Juice & Pineapple Juice",
+                    "Name": "Orange Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Pineapple Juice",
                     "Type": "Mixer"
                 }
             ]
@@ -25901,8 +25967,14 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "fill equal parts",
-                    "Name": "Cranberry Juice And Sprite",
+                    "Special": "Fill",
+                    "Name": "Cranberry Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Sprite",
                     "Type": "Mixer"
                 }
             ]
@@ -27407,8 +27479,14 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "fill",
-                    "Name": "Cranberry Juice And Sprite",
+                    "Special": "Fill",
+                    "Name": "Cranberry Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Sprite",
                     "Type": "Mixer"
                 }
             ]
@@ -28794,7 +28872,13 @@
                 {
                     "Oz": null,
                     "Special": "Fill",
-                    "Name": "Orange Juice And Lemonade",
+                    "Name": "Orange Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Lemonade",
                     "Type": "Mixer"
                 },
                 {
@@ -38615,7 +38699,13 @@
                 {
                     "Oz": null,
                     "Special": "Fill",
-                    "Name": "Cranberry Juice And Lemonade",
+                    "Name": "Lemonade",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Cranberry Juice",
                     "Type": "Mixer"
                 }
             ]
@@ -42016,7 +42106,13 @@
                 {
                     "Oz": null,
                     "Special": "Fill",
-                    "Name": "Cranberry Juice And Sprite",
+                    "Name": "Sprite",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Cranberry Juice",
                     "Type": "Mixer"
                 }
             ],
@@ -45745,8 +45841,14 @@
                 },
                 {
                     "Oz": null,
-                    "Special": "fill",
-                    "Name": "Pineapple Juice And Orange Juice",
+                    "Special": "Fill",
+                    "Name": "Orange Juice",
+                    "Type": "Mixer"
+                },
+                {
+                    "Oz": null,
+                    "Special": "Fill",
+                    "Name": "Pineapple Juice",
                     "Type": "Mixer"
                 }
             ]
