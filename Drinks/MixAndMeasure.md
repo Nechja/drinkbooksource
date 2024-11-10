@@ -3,7 +3,6 @@
 
 ## Measuring Ingredients
 
-### Standard Measurements:
 - **Ounces (oz):** Used for most liquid ingredients. Common amounts are 0.5 oz, 1 oz, 1.5 oz, and 2 oz.
 - **Teaspoon (tsp):** A small measure used for potent ingredients. Equivalent to 1/6 oz.
 - **Dash:** Approximately 1/8 teaspoon, often used for bitters.
