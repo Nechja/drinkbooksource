@@ -85,8 +85,8 @@ class PDFBookBuilder:
 
         appendices_pdf_output = 'appendices.pdf'
 
-        left_margin = 0.2 * inch 
-        right_margin = 0.5 * inch 
+        left_margin = 0.7 * inch 
+        right_margin = 0.25 * inch 
         bottom_margin = 0.25 * inch
         top_margin = 0.5 * inch
 
