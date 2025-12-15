@@ -1,3 +1,6 @@
+#### Updates - 12/14/2025
+Had an afternoon to myself, went and fixed some things that were annoying me on the site, and upgraded the sdk, did some stuff to make load times faster. Site needed some love after a year, we'll see if I find some time for more.
+
 #### Updates - 5/19/2024
 Oh hey...How's it going? I added some qol things folks asked for. Now the back arrow on drinks takes you back to your search. 🎉
 
